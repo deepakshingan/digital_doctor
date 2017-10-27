@@ -4,17 +4,7 @@
 import getopt, sys, io
 import re
 
-def usage():
-    print("usage: %s -n <spacenum> [-i] [infile]", sys.argv[0])
-    exit(1)
-
-try:
-    opts, args = getopt.getopt(sys.argv[1:], "in:")
-except getopt.GetoptError as e:
-    print(e.msg)
-    usage()
-
-infile = open(args[0]) if args else sys.stdin
+infile = open('input_sahayog_medicals/DATA_01_10_2016.txt')
 while True:
     l = infile.readline()
     if l == "": break
@@ -22,6 +12,6 @@ while True:
     if(sub.strip() == ""):
         l = l[:60] + '0' + l[60:]
     result = re.sub('  +',',',l)
-    with open('data.csv', 'a') as the_file:
+    with open('data_2016.csv', 'a') as the_file:
         the_file.write(result)
 

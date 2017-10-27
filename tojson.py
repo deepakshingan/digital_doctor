@@ -1,8 +1,8 @@
 import csv
 import json
 
-csvfile = open('data.csv', 'r')
-jsonfile = open('file.json', 'w')
+csvfile = open('data_2016.csv', 'r')
+jsonfile = open('file_2016.json', 'w')
 j =[]
 fieldnames = ('Name','Unit',	'Qty',	'Free',	'Amount')
 reader = csv.DictReader( csvfile, fieldnames)
