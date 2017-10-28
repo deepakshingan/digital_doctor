@@ -1,829 +1,830 @@
-04/04/17 SHIVLILA AGENCIES         CR/1             62                    752.00
-04/04/17 APTE AGENCIES             CR/2             178                   238.00
-04/04/17 APTE AGENCIES             CR/3             106                  3472.00
-04/04/17 DHANWANTRI MEDICAL STORES CR/4             19                   1222.00
-04/04/17 MANJUSHRI PHARMA          CR/5             19                   2078.00
-04/04/17 RAJENDRA MEDICAL STORES   CR/6             9                    1263.00
-04/04/17 RAJENDRA AGENCIES         CR/7             42                    528.00
-04/04/17 SURYA DISTRIBUTORS        CR/8             14                   6009.00
-04/04/17 RAJENDRA AGENCIES         CR/9             39                   2531.00
-05/04/17 PANDURANG DRUG HOUSE      CR/10            99                    916.00
-05/04/17 BAHUBALI PHARMACEUTICALS  CR/11            99                    992.00
-05/04/17 SHIVLILA AGENCIES         CR/12            177                   360.00
-05/04/17 PANDURANG DRUG HOUSE      CR/13            114                  1223.00
-06/04/17 GURUKRUPA DISTRIBUTORS, B CR/14            76                    499.00
-06/04/17 KRISHNA DISTRIBUTORS      CR/15            77                    899.00
-06/04/17 APTE AGENCIES             CR/16            701                   972.00
-06/04/17 RAJENDRA AGENCIES         CR/17            57                   1034.00
-06/04/17 DHANWANTRI MEDICAL STORES CR/18            187                  3734.00
-08/04/17 KRISHNA DISTRIBUTORS      CR/19            169                  1191.00
-08/04/17 SHREE MEDICALS            CR/25            163                  1120.00
-08/04/17 SHIVLILA AGENCIES         CR/26            346                   663.00
-09/04/17 SAMARATH SALES            CR/20            23                    286.00
-09/04/17 VIVEK AGENCIES            CR/21            46                   1323.00
-09/04/17 RAJ DISTRIBUTORS          CR/22            58                   1431.00
-09/04/17 SURAJ MEDICAL & GENERAL S CR/23            134                   655.00
-09/04/17 GURUKRUPA DISTRIBUTORS, B CR/24            107                  1091.00
-10/04/17 BAHUBALI PHARMACEUTICALS  CR/27            278                  1520.00
-10/04/17 SURYA DISTRIBUTORS        CR/28            37                   5372.00
-10/04/17 APTE AGENCIES             CR/29            1150                 2003.00
-10/04/17 MANJUSHRI PHARMA          CR/30            380                   592.00
-11/04/17 GURUKRUPA DISTRIBUTORS, B CR/31            144                   798.00
-11/04/17 RAJENDRA MEDICAL STORES   CR/32            82                   1363.00
-11/04/17 MANJUSHRI PHARMA          CR/36            403                   533.00
-11/04/17 APTE AGENCIES             CR/37            1789                  859.00
-12/04/17 BAHUBALI PHARMACEUTICALS  CR/33            367                   309.00
-12/04/17 DHANWANTRI MEDICAL STORES CR/34            466                  1546.00
-12/04/17 BAHUBALI PHARMACEUTICALS  CR/35            328                  1316.00
-13/04/17 GURUKRUPA DISTRIBUTORS, B CR/38            182                   845.00
-14/04/17 PANDURANG DRUG HOUSE      CR/39            714                   815.00
-14/04/17 PANDURANG DRUG HOUSE      CR/40            697                  1337.00
-14/04/17 K-MAX PHARMA.             CR/41            1036                 1210.00
-14/04/17 RAJENDRA AGENCIES         CR/42            144                  1590.00
-14/04/17 APTE AGENCIES             CR/43            2127                 1805.00
-14/04/17 APTE AGENCIES             CR/44            2152                  633.00
-17/04/17 APTE AGENCIES             CR/45            2261                 1248.00
-17/04/17 SHRI BALAJI AGENCIES      CR/46            62                    740.00
-17/04/17 DHANWANTRI MEDICAL STORES CR/47            694                  1919.00
-17/04/17 MANJUSHRI PHARMA          CR/48            701                  2379.00
-17/04/17 GURUKRUPA DISTRIBUTORS, B CR/49            232                   633.00
-17/04/17 SURYA DISTRIBUTORS        CR/50            82                   5845.00
-17/04/17 BAHUBALI PHARMACEUTICALS  CR/51            501                  1556.00
-17/04/17 VIVEK AGENCIES            CR/52            123                  1864.00
-17/04/17 SHREE VAISHANVI DISTRIBUT CR/53            89                    647.00
-17/04/17 SHIVAM SALES, SOLAPUR     CR/54            94                    595.00
-17/04/17 RAJENDRA MEDICAL STORES   CR/55            128                   875.00
-18/04/17 PANDURANG DRUG HOUSE      CR/56            913                   972.00
-18/04/17 PANDURANG DRUG HOUSE      CR/57            892                   358.00
-18/04/17 PANDURANG DRUG HOUSE      CR/58            901                   696.00
-18/04/17 BAHUBALI PHARMACEUTICALS  CR/59            558                   339.00
-19/04/17 METRO PHARMA              CA/1             581                   696.00
-19/04/17 SHIVLILA AGENCIES         CR/60            689                   800.00
-19/04/17 RAJ DISTRIBUTORS          CR/61            152                  1628.00
-19/04/17 APTE AGENCIES             CR/62            2697                  593.00
-19/04/17 PANDURANG DRUG HOUSE      CR/63            981                   742.00
-19/04/17 SHIVLILA AGENCIES         CR/68            690                   663.00
-19/04/17 KRISHNA DISTRIBUTORS      CR/69            476                  1364.00
-19/04/17 APTE AGENCIES             CR/70            3042                  520.00
-19/04/17 APTE AGENCIES             CR/72            3057                  731.00
-20/04/17 BAHUBALI PHARMACEUTICALS  CR/64            652                  1109.00
-20/04/17 GURUKRUPA DISTRIBUTORS, B CR/65            292                  1359.00
-20/04/17 SURYA DISTRIBUTORS        CR/66            106                  1033.00
-20/04/17 APTE AGENCIES             CR/67            2875                 1075.00
-21/04/17 SHRI BALAJI AGENCIES      CR/71            98                    469.00
-22/04/17 GURUKRUPA DISTRIBUTORS, B CR/73            319                   510.00
-22/04/17 BAHUBALI PHARMACEUTICALS  CR/74            714                  1576.00
-23/04/17 RAJ DISTRIBUTORS          CR/75            188                   976.00
-24/04/17 SURYA DISTRIBUTORS        CR/76            135                  1680.00
-24/04/17 DHANWANTRI MEDICAL STORES CR/77            990                  1483.00
-24/04/17 AKSHAR MEDICALS           CR/78            320                  2241.00
-24/04/17 RAJENDRA MEDICAL STORES   CR/79            167                   921.00
-24/04/17 AKSHAR MEDICALS           CR/80            331                   401.00
-24/04/17 MANJUSHRI PHARMA          CR/81            1002                  788.00
-24/04/17 APTE AGENCIES             CR/82            3445                 1311.00
-25/04/17 BAHUBALI PHARMACEUTICALS  CR/83            805                  1973.00
-25/04/17 BAHUBALI PHARMACEUTICALS  CR/84            812                   320.00
-25/04/17 PANDURANG DRUG HOUSE      CR/85            1359                 1723.00
-26/04/17 AKSHAR MEDICALS           CR/87            372                   146.00
-27/04/17 GURUKRUPA DISTRIBUTORS, B CR/86            385                   904.00
-27/04/17 DHANWANTRI MEDICAL STORES CR/88            1181                 1903.00
-28/04/17 SURYA DISTRIBUTORS        CR/89            162                  3942.00
-28/04/17 SAMARATH SALES            CR/90            117                   326.00
-28/04/17 SHRI GANRAJ DIST.         CR/91            248                  2016.00
-28/04/17 NEPTUNE MEDICAL           CA/2             145                   254.00
-01/05/17 SHREE VAISHANVI DISTRIBUT CR/92            154                   478.00
-01/05/17 BAHUBALI PHARMACEUTICALS  CR/93            943                   842.00
-01/05/17 APTE AGENCIES             CR/94            4143                 1056.00
-01/05/17 SHIVAM SALES, SOLAPUR     CR/95            105                   394.00
-01/05/17 SANJIVANI MEDICALS BARSHI CR/96            54                   1609.00
-01/05/17 BAHUBALI PHARMACEUTICALS  CR/97            959                   557.00
-01/05/17 RAJENDRA MEDICAL STORES   CR/98            200                   223.00
-01/05/17 APTE AGENCIES             CR/99            4260                  404.00
-01/05/17 MANJUSHRI PHARMA          CR/100           1304                 2492.00
-01/05/17 APTE AGENCIES             CR/101           4338                  446.00
-01/05/17 APTE AGENCIES             CR/102           4298                 1182.00
-01/05/17 SURAJ MEDICAL & GENERAL S CR/103           588                  1101.00
-01/05/17 RAJENDRA AGENCIES         CR/104           316                   710.00
-01/05/17 GURUKRUPA DISTRIBUTORS, B CR/105           423                  1367.00
-01/05/17 APTE AGENCIES             CR/106           4543                 2110.00
-01/05/17 MANJUSHRI PHARMA          CR/107           1346                  413.00
-03/05/17 PANDURANG DRUG HOUSE      CR/108           1823                  559.00
-03/05/17 SURYA DISTRIBUTORS        CR/109           197                  7394.00
-03/05/17 SAMARATH SALES            CR/110           146                   661.00
-03/05/17 GURUKRUPA DISTRIBUTORS, B CR/111           453                  1780.00
-04/05/17 SHREE MEDICALS            CR/122           747                  2969.00
-04/05/17 DHANWANTRI MEDICAL STORES CR/123           1665                  636.00
-05/05/17 SHIVLILA AGENCIES         CR/112           1343                 1573.00
-06/05/17 GURUKRUPA DISTRIBUTORS, B CR/115           483                  1053.00
-06/05/17 NEPTUNE MEDICAL           CR/116           190                   446.00
-06/05/17 KRISHNA DISTRIBUTORS      CR/117           895                   661.00
-06/05/17 APTE AGENCIES             CR/118           6206                 1187.00
-06/05/17 METRO PHARMA              CA/3             1165                 1394.00
-06/05/17 SHIVAM SALES, SOLAPUR     CR/119           141                   552.00
-07/05/17 VIVEK AGENCIES            CR/113           234                  1206.00
-08/05/17 RAJ DISTRIBUTORS          CR/114           301                   912.00
-08/05/17 DHANWANTRI MEDICAL STORES CR/120           1610                 2012.00
-08/05/17 APTE AGENCIES             CR/121           5332                 1498.00
-09/05/17 GURUKRUPA DISTRIBUTORS, B CR/124           494                   770.00
-09/05/17 SHIVLILA AGENCIES         CR/125           1465                 1485.00
-09/05/17 SUMANT DISTRIBUTORS PVT.  CR/128           2665                 1392.00
-10/05/17 BAHUBALI PHARMACEUTICALS  CR/126           1304                  797.00
-10/05/17 APTE AGENCIES             CR/127           5778                 1488.00
-10/05/17 PANDURANG DRUG HOUSE      CR/129           2209                  943.00
-10/05/17 GURUKRUPA DISTRIBUTORS, B CR/130           538                   883.00
-11/05/17 RAJENDRA MEDICAL STORES   CR/131           254                  1107.00
-11/05/17 MANJUSHRI PHARMA          CR/132           1740                 2371.00
-11/05/17 SURYA DISTRIBUTORS        CR/133           246                  2828.00
-11/05/17 AKSHAR MEDICALS           CR/134           584                   676.00
-11/05/17 MANJUSHRI PHARMA          CR/135           1796                  250.00
-11/05/17 DHANWANTRI MEDICAL STORES CR/136           1819                  960.00
-11/05/17 KRISHNA DISTRIBUTORS      CR/137           1036                 2038.00
-11/05/17 SAMARATH SALES            CA/4             163                   390.00
-12/05/17 PANDURANG DRUG HOUSE      CR/138           2325                 1932.00
-13/05/17 APTE AGENCIES             CR/139           6242                 1487.00
-13/05/17 METRO PHARMA              CA/5             1402                  563.00
-13/05/17 MANJUSHRI PHARMA          CR/140           1873                 1311.00
-15/05/17 APTE AGENCIES             CR/141           6371                  489.00
-15/05/17 RAJENDRA AGENCIES         CR/142           501                   941.00
-15/05/17 GURUKRUPA DISTRIBUTORS, B CR/143           575                   894.00
-15/05/17 METRO PHARMA              CA/6             1448                 1155.00
-15/05/17 SHRI BALAJI AGENCIES      CR/144           243                   461.00
-15/05/17 MANJUSHRI PHARMA          CR/145           1908                 2519.00
-17/05/17 DHANWANTRI MEDICAL STORES CR/146           2046                 2265.00
-17/05/17 APTE AGENCIES             CR/147           6826                  828.00
-17/05/17 SHIVLILA AGENCIES         CR/148           1768                  206.00
-17/05/17 APTE AGENCIES             CR/149           6788                  875.00
-17/05/17 G1-ONE HEALTHCARE LLP     CR/150           29                   2238.00
-17/05/17 PANDURANG DRUG HOUSE      CR/151           2612                 1467.00
-18/05/17 DHANWANTRI MEDICAL STORES CR/152           2109                  520.00
-18/05/17 SURYA DISTRIBUTORS        CR/153           292                  6167.00
-18/05/17 SHREE VAISHANVI DISTRIBUT CA/7             20                   1892.00
-18/05/17 SHREE VAISHANVI DISTRIBUT CR/154           271                  1022.00
-19/05/17 GURUKRUPA DISTRIBUTORS, B CR/157           640                   583.00
-20/05/17 RAJENDRA AGENCIES         CR/155           445                  1511.00
-20/05/17 SHIVAM AGENCIES           CR/156           7096                  348.00
-20/05/17 SURYA DISTRIBUTORS        CR/158           301                  2579.00
-20/05/17 RAJENDRA AGENCIES         CR/159           578                  1921.00
-20/05/17 SHIVLILA AGENCIES         CR/160           1855                 1282.00
-20/05/17 RAJENDRA MEDICAL STORES   CR/161           306                   970.00
-20/05/17 APTE AGENCIES             CR/162           7114                 3167.00
-20/05/17 SURAJ MEDICAL & GENERAL S CR/163           932                  1014.00
-20/05/17 SHREE MEDICALS            CR/164           1069                  757.00
-20/05/17 MANJUSHRI PHARMA          CR/165           2142                  703.00
-20/05/17 BAHUBALI PHARMACEUTICALS  CR/166           1686                 1617.00
-20/05/17 MANJUSHRI PHARMA          CR/167           2224                 3902.00
-22/05/17 APTE AGENCIES             CR/168           7472                 1937.00
-22/05/17 SAMARATH SALES            CR/173           197                   260.00
-22/05/17 RAJENDRA MEDICAL STORES   CR/174           315                   759.00
-23/05/17 BAHUBALI PHARMACEUTICALS  CR/169           1642                 1237.00
-23/05/17 VIVEK AGENCIES            CR/170           325                   667.00
-23/05/17 PANDURANG DRUG HOUSE      CR/171           2802                 1915.00
-23/05/17 SURAJ MEDICAL & GENERAL S CR/172           946                   661.00
-23/05/17 APTE AGENCIES             CR/175           7667                  715.00
-23/05/17 APTE AGENCIES             CR/176           7794                  756.00
-23/05/17 SAMARATH SALES            CR/177           199                   519.00
-23/05/17 SURYA DISTRIBUTORS        CR/178           331                  7020.00
-24/05/17 PANDURANG DRUG HOUSE      CR/179           3041                  906.00
-24/05/17 BAHUBALI PHARMACEUTICALS  CR/180           1761                  692.00
-24/05/17 DHANWANTRI MEDICAL STORES CR/181           2395                  677.00
-24/05/17 MANJUSHRI PHARMA          CR/182           2375                  970.00
-24/05/17 DHANWANTRI MEDICAL STORES CR/183           2455                 1739.00
-24/05/17 SANJIVANI AGENCIES        CA/8             468                   391.00
-25/05/17 RAJENDRA AGENCIES         CR/202           637                  2627.00
-25/05/17 RAJENDRA AGENCIES         CR/203           673                  1122.00
-26/05/17 SHIVLILA AGENCIES         CR/184           2144                 1982.00
-26/05/17 KRISHNA DISTRIBUTORS      CR/185           1365                 1748.00
-26/05/17 APTE AGENCIES             CR/186           8231                 1123.00
-26/05/17 PANDURANG DRUG HOUSE      CR/187           3163                 1962.00
-26/05/17 BAHUBALI PHARMACEUTICALS  CR/188           1806                  914.00
-26/05/17 RAJENDRA MEDICAL STORES   CR/189           341                  1280.00
-27/05/17 VIVEK AGENCIES            CR/190           374                  1762.00
-27/05/17 RAJ DISTRIBUTORS          CR/191           55                    461.00
-27/05/17 GURUKRUPA DISTRIBUTORS, B CR/192           757                  1463.00
-27/05/17 MANJUSHRI PHARMA          CR/193           2527                  386.00
-27/05/17 MANJUSHRI PHARMA          CR/194           2497                  787.00
-27/05/17 SHREE MEDICALS            CR/195           1234                 1008.00
-27/05/17 SHIVLILA AGENCIES         CR/196           2205                  888.00
-27/05/17 SURYA DISTRIBUTORS        CR/197           358                   396.00
-27/05/17 SURYA DISTRIBUTORS        CR/198           357                  1722.00
-27/05/17 KRISHNA DISTRIBUTORS      CR/199           1402                 1163.00
-27/05/17 NEPTUNE MEDICAL           CA/9             318                   104.00
-31/05/17 APTE AGENCIES             CR/200           8803                 1367.00
-31/05/17 RAJENDRA AGENCIES         CR/201           712                  2366.00
-01/06/17 SHRI BALAJI AGENCIES      CR/204           323                   692.00
-01/06/17 MANJUSHRI PHARMA          CR/205           2666                 1547.00
-01/06/17 SAMARATH SALES            CR/206           257                   355.00
-01/06/17 APTE AGENCIES             CR/207           8980                  784.00
-01/06/17 SURYA DISTRIBUTORS        CR/210           379                 12485.00
-01/06/17 SURYA DISTRIBUTORS        CR/211           380                  1988.00
-01/06/17 SHREE VAISHANVI DISTRIBUT CR/212           354                   285.00
-01/06/17 GURUKRUPA DISTRIBUTORS, B CR/213           794                  1056.00
-01/06/17 SHIVLILA AGENCIES         CR/214           2383                  844.00
-02/06/17 PANDURANG DRUG HOUSE      CR/208           3457                 1324.00
-02/06/17 GURUKRUPA DISTRIBUTORS, B CR/209           780                   946.00
-02/06/17 DHANWANTRI MEDICAL STORES CR/215           2737                 3831.00
-02/06/17 PANDURANG DRUG HOUSE      CR/216           3522                  650.00
-02/06/17 APTE AGENCIES             CR/217           9177                 1004.00
-03/06/17 SURAJ MEDICAL & GENERAL S CR/218           1229                 1657.00
-03/06/17 MANJUSHRI PHARMA          CR/219           2762                  667.00
-03/06/17 APTE AGENCIES             CR/220           9378                  860.00
-03/06/17 VIVEK AGENCIES            CR/221           421                   667.00
-03/06/17 GURUKRUPA DISTRIBUTORS, B CR/222           828                  1211.00
-03/06/17 APTE AGENCIES             CR/223           9309                  513.00
-03/06/17 GURUKRUPA DISTRIBUTORS, B CR/224           834                   931.00
-03/06/17 KRISHNA DISTRIBUTORS      CR/225           1589                  519.00
-03/06/17 APTE AGENCIES             CR/226           9429                 1056.00
-05/06/17 MANJUSHRI PHARMA          CR/227           2829                  324.00
-05/06/17 MANJUSHRI PHARMA          CR/228           2860                 5107.00
-05/06/17 SHIVLILA AGENCIES         CR/229           2500                  686.00
-06/06/17 RAJENDRA AGENCIES         CR/230           784                  1930.00
-06/06/17 SHREE MEDICALS            CR/246           1419                  759.00
-07/06/17 SHIVLILA AGENCIES         CR/231           2553                  695.00
-07/06/17 PANDURANG DRUG HOUSE      CR/232           3762                 1852.00
-07/06/17 SURYA DISTRIBUTORS        CR/233           416                  3276.00
-07/06/17 MANJUSHRI PHARMA          CR/234           2912                 1611.00
-08/06/17 SHREE MEDICALS            CR/279           1471                 1145.00
-09/06/17 GURUKRUPA DISTRIBUTORS, B CR/235           899                   542.00
-09/06/17 SUMANT DISTRIBUTORS PVT.  CR/236           4629                 1543.00
-09/06/17 K-MAX PHARMA.             CR/237           1146                  630.00
-09/06/17 RAJENDRA MEDICAL STORES   CR/238           412                  1277.00
-09/06/17 SHRI BALAJI AGENCIES      CR/239           355                  2731.00
-09/06/17 METRO PHARMA              CA/10            2280                 1063.00
-09/06/17 KRISHNA DISTRIBUTORS      CR/240           1636                 1965.00
-12/06/17 SHIVLILA AGENCIES         CR/242           2741                  480.00
-12/06/17 MANJUSHRI PHARMA          CR/245           3096                 3024.00
-12/06/17 BAHUBALI PHARMACEUTICALS  CR/247           2274                  482.00
-12/06/17 GURUKRUPA DISTRIBUTORS, B CR/248           945                   476.00
-12/06/17 RAJ DISTRIBUTORS          CR/249           180                   915.00
-12/06/17 GURUKRUPA DISTRIBUTORS, B CR/250           936                   519.00
-13/06/17 BAHUBALI PHARMACEUTICALS  CR/241           2311                  444.00
-13/06/17 SURAJ MEDICAL & GENERAL S CR/243           1377                 1499.00
-13/06/17 APTE AGENCIES             CR/244           10693                 149.00
-13/06/17 SHREE VAISHANVI DISTRIBUT CR/251           430                  1500.00
-13/06/17 METRO PHARMA              CA/11            2448                  219.00
-13/06/17 NEPTUNE MEDICAL           CR/252           405                   849.00
-13/06/17 MANJUSHRI PHARMA          CR/253           3169                 1296.00
-13/06/17 KRISHNA DISTRIBUTORS      CR/254           1815                  603.00
-14/06/17 SURYA DISTRIBUTORS        CR/255           464                  2561.00
-14/06/17 PANDURANG DRUG HOUSE      CR/256           4166                 1785.00
-14/06/17 RAJENDRA MEDICAL STORES   CR/257           454                  1309.00
-14/06/17 SHRI BALAJI AGENCIES      CR/258           404                   344.00
-14/06/17 SAMARATH SALES            CR/259           305                   967.00
-16/06/17 BAHUBALI PHARMACEUTICALS  CR/284           2415                 1237.00
-16/06/17 MANJUSHRI PHARMA          CR/285           3501                 1583.00
-17/06/17 GURUKRUPA DISTRIBUTORS, B CR/264           1013                 1408.00
-17/06/17 VIVEK AGENCIES            CR/266           502                  2157.00
-17/06/17 MANJUSHRI PHARMA          CR/267           3373                 2144.00
-17/06/17 BAHUBALI PHARMACEUTICALS  CR/268           2455                 1827.00
-17/06/17 APTE AGENCIES             CR/269           11355                 684.00
-17/06/17 SHIVLILA AGENCIES         CR/270           2953                  376.00
-17/06/17 GURUKRUPA DISTRIBUTORS, B CR/271           1023                  822.00
-17/06/17 PANDURANG DRUG HOUSE      CR/315           4491                  457.00
-19/06/17 RAJENDRA AGENCIES         CR/260           893                  1689.00
-19/06/17 MANJUSHRI PHARMA          CR/261           1298                 1061.00
-19/06/17 DHANWANTRI MEDICAL STORES CR/262           3336                 1302.00
-19/06/17 APTE AGENCIES             CR/263           11082                 271.00
-19/06/17 APTE AGENCIES             CR/265           11377                 720.00
-19/06/17 DHANWANTRI MEDICAL STORES CR/272           3451                 1944.00
-19/06/17 SURAJ MEDICAL & GENERAL S CR/273           1527                 1057.00
-19/06/17 SURYA DISTRIBUTORS        CR/274           490                 10545.00
-19/06/17 GURUKRUPA DISTRIBUTORS, B CR/275           1040                  447.00
-19/06/17 BAHUBALI PHARMACEUTICALS  CR/276           2512                  143.00
-19/06/17 APTE AGENCIES             CR/277           11980                1428.00
-19/06/17 SHIVLILA AGENCIES         CR/278           3073                  723.00
-20/06/17 GURUKRUPA DISTRIBUTORS, B CR/280           4633                  848.00
-20/06/17 SUMANT DISTRIBUTORS PVT.  CR/281           5558                  978.00
-20/06/17 SHIVLILA AGENCIES         CR/282           3088                 1185.00
-20/06/17 RAJENDRA AGENCIES         CR/283           945                  1034.00
-20/06/17 KRISHNA DISTRIBUTORS      CR/286           1987                 1284.00
-20/06/17 PANDURANG DRUG HOUSE      CR/287           4713                 1680.00
-22/06/17 GURUKRUPA DISTRIBUTORS, B CR/288           1100                  793.00
-22/06/17 BAHUBALI PHARMACEUTICALS  CR/289           2510                  566.00
-22/06/17 MANJUSHRI PHARMA          CR/290           1563                 2704.00
-22/06/17 RAJENDRA AGENCIES         CR/291           968                   681.00
-23/06/17 SURAJ MEDICAL & GENERAL S CR/292           1629                  663.00
-23/06/17 RAJ DISTRIBUTORS          CR/293           271                  2104.00
-23/06/17 APTE AGENCIES             CR/294           12325                1005.00
-23/06/17 SHRI BALAJI AGENCIES      CR/295           472                  1010.00
-23/06/17 SHREE VAISHANVI DISTRIBUT CR/296           495                  1255.00
-24/06/17 METRO PHARMA              CA/12            2803                  319.00
-24/06/17 DHANWANTRI MEDICAL STORES CR/297           3742                 4531.00
-24/06/17 MANJUSHRI PHARMA          CR/298           3708                 1298.00
-24/06/17 GURUKRUPA DISTRIBUTORS, B CR/299           1139                  925.00
-24/06/17 BAHUBALI PHARMACEUTICALS  CR/300           2668                  319.00
-26/06/17 SHREE VAISHANVI DISTRIBUT CR/301           509                  1021.00
-26/06/17 APTE AGENCIES             CR/302           12615                 827.00
-26/06/17 RAJ DISTRIBUTORS          CR/303           291                  2252.00
-26/06/17 MANJUSHRI PHARMA          CR/304           3762                 1628.00
-27/06/17 SHREE MEDICALS            CR/305           1848                 1607.00
-27/06/17 RAJENDRA MEDICAL STORES   CR/306           513                  1213.00
-27/06/17 PANDURANG DRUG HOUSE      CR/307           5035                  715.00
-27/06/17 DHANWANTRI MEDICAL STORES CR/308           3852                  783.00
-27/06/17 VIVEK AGENCIES            CR/309           587                   702.00
-27/06/17 SURYA DISTRIBUTORS        CR/310           533                  2774.00
-27/06/17 SHIVLILA AGENCIES         CR/311           3384                  403.00
-27/06/17 RAJENDRA AGENCIES         CR/312           1028                 1590.00
-28/06/17 DHANWANTRI MEDICAL STORES CR/313           3910                  481.00
-28/06/17 MANJUSHRI PHARMA          CR/314           3866                 2319.00
-28/06/17 SURYA DISTRIBUTORS        CR/316           541                   982.00
-28/06/17 METRO PHARMA              CA/13            2912                 1790.00
-28/06/17 APTE AGENCIES             CR/317           13121                2029.00
-28/06/17 SHRI GANRAJ DIST.         CR/318           678                  1551.00
-28/06/17 KRISHNA DISTRIBUTORS      CR/319           2185                  949.00
-28/06/17 GURUKRUPA DISTRIBUTORS, B CR/320           1161                  734.00
-28/06/17 SHRI BALAJI AGENCIES      CR/321           478                  1793.00
-28/06/17 KRISHNA DISTRIBUTORS      CR/322           2171                 1304.00
-29/06/17 RAJ DISTRIBUTORS          CR/323           320                  2124.00
-29/06/17 SURAJ MEDICAL & GENERAL S CR/324           1740                  661.00
-29/06/17 MANJUSHRI PHARMA          CR/325           3957                 3617.00
-29/06/17 SAMARATH SALES            CR/326           405                  1496.00
-29/06/17 GURUKRUPA DISTRIBUTORS, B CR/327           1165                 1779.00
-29/06/17 PANDURANG DRUG HOUSE      CR/328           5278                 1623.00
-29/06/17 VIVEK AGENCIES            CR/329           602                   685.00
-29/06/17 SURYA DISTRIBUTORS        CR/330           570                 27861.00
-29/06/17 NEPTUNE MEDICAL           CR/334           506                  1000.00
-29/06/17 NEPTUNE MEDICAL           CR/335           526                   425.00
-29/06/17 NEPTUNE MEDICAL           CR/336           503                   371.00
-30/06/17 MANJUSHRI PHARMA          CR/331           4046                  842.00
-30/06/17 MANJUSHRI PHARMA          CR/332           4055                 2531.00
-30/06/17 SURAJ MEDICAL & GENERAL S CR/337           1796                 1776.00
-30/06/17 SHIVAM SALES, SOLAPUR     CR/338           479                   864.00
-30/06/17 PANDURANG DRUG HOUSE      CR/339           5562                 1758.00
-30/06/17 PANDURANG DRUG HOUSE      CR/340           5571                  899.00
-30/06/17 SHRI BALAJI AGENCIES      CR/341           528                   324.00
-30/06/17 MANJUSHRI PHARMA          CR/342           4113                 1362.00
-30/06/17 SHIVLILA AGENCIES         CR/343           3589                  624.00
-04/07/17 APTE AGENCIES             CR/333           14087                 604.00
-05/07/17 KRISHNA DISTRIBUTORS      CR/344           2344                  415.00
-05/07/17 BAHUBALI PHARMACEUTICAL D CR/350           2925                 1239.00
-07/07/17 SHIVLILA AGENCIES         CR/345           3768                 1879.00
-07/07/17 RAJENDRA MEDICAL STORES   CR/346           573                  1662.00
-07/07/17 SURAJ MEDICAL &GENERAL ST CR/347           1846                  997.00
-07/07/17 SHREE MANJUSHREE PHARMA   CR/348           4236                 1142.00
-07/07/17 RAJENDRA AGENCIES BARSHI  CR/351           1144                 1792.00
-07/07/17 RAJENDRA AGENCIES BARSHI  CR/352           1154                  286.00
-07/07/17 RAJENDRA AGENCIES BARSHI  CR/353           1168                  544.00
-07/07/17 APTE AGENCIES             CR/358           14418                1209.00
-07/07/17 APTE AGENCIES             CR/359           14535                2165.00
-08/07/17 SANJIVANI MEDICALS BARSHI CR/349           190                  1397.00
-08/07/17 SHIVAM AGENCIES, BARSHI   CR/356           7890                  922.00
-08/07/17 APTE AGENCIES             CR/357           14656                1410.00
-09/07/17 RAJENDRA MEDICAL STORES   CR/354           3768                 1970.00
-09/07/17 DHANWANTARI MEDICAL STORE CR/355           4302                 1033.00
-10/07/17 APTE AGENCIES             CR/360           14950                 824.00
-10/07/17 GURUKRUPA DISTRIBUTORS    CR/361           1275                  682.00
-10/07/17 SANJIVANI AGENCIES        CR/362           852                   351.00
-10/07/17 SHRI GANRAJ DISTRIBUTORS  CR/364           770                   594.00
-10/07/17 RAJENDRA AGENCIES BARSHI  CR/365           1173                  874.00
-10/07/17 DHANWANTARI MEDICAL STORE CR/366           4421                 1624.00
-11/07/17 SHIVAM AGENCIES, BARSHI   CR/371           7946                 1523.00
-11/07/17 GURUKRUPA DISTRIBUTORS    CR/372           1305                 1956.00
-11/07/17 SURAJ MEDICAL &GENERAL ST CR/373           1919                  941.00
-12/07/17 APTE AGENCIES             CR/369           15380                1582.00
-13/07/17 SHREE MANJUSHREE PHARMA   CR/363           4444                 2658.00
-13/07/17 RAJ DISTRIBUTORS BARSHI   CR/367           432                   618.00
-13/07/17 SHIVLILA AGENCIES BARSHI. CR/368           3970                  819.00
-13/07/17 BAHUBALI PHARMACEUTICAL D CR/370           3125                  256.00
-13/07/17 GURUKRUPA DISTRIBUTORS    CR/374           1320                  880.00
-13/07/17 SURYA DISTRIBUTORS BARSHI CR/375           634                  1848.00
-13/07/17 RAJENDRA MEDICAL STORES   CR/381           633                  1570.00
-14/07/17 KRISHNA DISTRIBUTORS      CR/376           2569                  569.00
-14/07/17 SHREE MANJUSHREE PHARMA   CR/377           4627                 1468.00
-14/07/17 SHRI BALAJI AGENCIES      CR/378           577                  1616.00
-14/07/17 BAHUBALI PHARMACEUTICAL D CR/379           3198                  995.00
-14/07/17 DHANWANTARI MEDICAL STORE CR/380           4570                 1860.00
-14/07/17 APTE AGENCIES             CR/382           15480                1763.00
-14/07/17 APTE AGENCIES             CR/383           15665                 625.00
-14/07/17 PANDURANG DRUG HOUSE      CR/384           5983                 1025.00
-14/07/17 DHANWANTARI MEDICAL STORE CR/385           4616                  765.00
-14/07/17 SHRI VAISHNAVI DISTRIBUTO CR/386           632                   861.00
-14/07/17 SHIVLILA AGENCIES BARSHI. CR/387           4084                  887.00
-14/07/17 RAJ DISTRIBUTORS BARSHI   CR/388           457                  1333.00
-14/07/17 SHRI MANJUSHRI PHARMA     CR/389           4686                 1000.00
-14/07/17 SURYA DISTRIBUTORS BARSHI CR/390           641                  1393.00
-14/07/17 RAJENDRA AGENCIES BARSHI  CR/391           1229                 1118.00
-15/07/17 VIVEK AGENCIES KURDUWADI  CR/392           45                    708.00
-15/07/17 SAMARATH SALES            CR/393           828                  2636.00
-15/07/17 GURUKRUPA DISTRIBUTORS    CR/394           1364                  676.00
-15/07/17 SHREE MEDICALS            CR/395           2328                  632.00
-15/07/17 RAJENDRA AGENCIES BARSHI  CR/396           1246                 1383.00
-17/07/17 GURUKRUPA DISTRIBUTORS    CR/398           1396                  335.00
-17/07/17 APTE AGENCIES             CR/399           16007                2839.00
-17/07/17 SAMARTH SALES CONSUMER    CA/14            825                   679.00
-17/07/17 DHANWANTARI MEDICAL STORE CR/400           4680                 4027.00
-17/07/17 SHREE MANJUSHREE PHARMA   CR/401           4850                  720.00
-17/07/17 KRISHNA DISTRIBUTORS      CR/402           2647                 2738.00
-17/07/17 KRISHNA DISTRIBUTORS      CR/403           2672                  599.00
-17/07/17 SHREE MANJUSHREE PHARMA   CR/404           4791                 2191.00
-17/07/17 SHREE MANJUSHREE PHARMA   CR/405           4818                 1536.00
-17/07/17 BAHUBALI PHARMACEUTICAL D CR/406           3278                 1915.00
-17/07/17 VIVEK AGENCIES KURDUWADI  CR/407           63                   1625.00
-18/07/17 METRO PHARMA              CA/15            3650                  601.00
-18/07/17 SHRI BALAJI AGENCIES      CR/409           611                  2577.00
-19/07/17 RAJENDRA MEDICAL STORES   CR/397           645                   302.00
-19/07/17 BAHUBALI PHARMACEUTICAL D CR/410           3336                  378.00
-19/07/17 RAJENDRA AGENCIES BARSHI  CR/411           1281                 1869.00
-19/07/17 SAMARTH SALES CONSUMER    CR/412           878                   764.00
-19/07/17 GURUKRUPA DISTRIBUTORS    CR/413           1441                  400.00
-19/07/17 GURUKRUPA DISTRIBUTORS    CR/414           1453                  218.00
-19/07/17 DHANWANTARI MEDICAL STORE CR/415           4721                 2378.00
-20/07/17 PANDURANG DRUG HOUSE      CR/408           6298                 1912.00
-20/07/17 METRO PHARMA              CA/16            3713                  609.00
-20/07/17 APTE AGENCIES             CR/416           16673                1695.00
-20/07/17 AKSHAR MEDICALS           CR/417           1654                  493.00
-20/07/17 DHANWANTARI MEDICAL STORE CR/420           4859                 3620.00
-21/07/17 SHIVLILA AGENCIES BARSHI. CR/418           4275                  616.00
-21/07/17 RAJENDRA AGENCIES BARSHI  CR/419           1308                  318.00
-22/07/17 RAJENDRA AGENCIES BARSHI  CR/421           1317                 1204.00
-22/07/17 SUMANT DISTRIBUTORS PVT.  CR/422           917                   979.00
-22/07/17 AKSHAY ENTERPRISES        CR/423           31                   1888.00
-22/07/17 RAJ DISTRIBUTORS BARSHI   CR/424           524                   920.00
-22/07/17 SHREE MANJUSHREE PHARMA   CR/425           5030                 1205.00
-22/07/17 BAHUBALI PHARMACEUTICAL D CR/426           3390                 1057.00
-22/07/17 DHANWANTARI MEDICAL STORE CR/427           4990                 1860.00
-22/07/17 SURYA DISTRIBUTORS BARSHI CR/428           685                  3058.00
-22/07/17 SHRI VAISHNAVI DISTRIBUTO CR/429           705                  1690.00
-22/07/17 SHRI GANRAJ DISTRIBUTORS  CR/430           919                   661.00
-22/07/17 RAJENDRA AGENCIES BARSHI  CR/431           1333                  199.00
-22/07/17 PANDURANG DRUG HOUSE      CR/439           6590                 4069.00
-24/07/17 SURYA DISTRIBUTORS BARSHI CR/432           700                  3591.00
-24/07/17 SURAJ MEDICAL &GENERAL ST CR/433           2120                 1915.00
-24/07/17 GURUKRUPA DISTRIBUTORS    CR/434           1518                 1369.00
-24/07/17 SHRI MANJUSHRI PHARMA     CR/435           5164                 3258.00
-24/07/17 RAJ DISTRIBUTORS BARSHI   CR/436           558                  1706.00
-24/07/17 DHANWANTARI MEDICAL STORE CR/437           5009                 1717.00
-24/07/17 APTE AGENCIES             CR/448           17183                2283.00
-26/07/17 BAHUBALI PHARMACEUTICAL D CR/438           3502                  445.00
-26/07/17 SURYA DISTRIBUTORS BARSHI CR/440           712                  7254.00
-26/07/17 SHIVLILA AGENCIES BARSHI. CR/443           4607                 1230.00
-26/07/17 APTE AGENCIES             CR/449           17576                2092.00
-26/07/17 APTE AGENCIES             CR/450           18035                1125.00
-26/07/17 APTE AGENCIES             CR/451           17778                 334.00
-26/07/17 PANDURANG DRUG HOUSE      CR/452           6820                 2345.00
-26/07/17 DHANWANTARI MEDICAL STORE CR/453           5216                 1024.00
-26/07/17 BALDAWA ENTERPRISES SOLAP CR/454           987663                996.00
-26/07/17 SHIVLILA AGENCIES BARSHI. CR/455           4677                  664.00
-26/07/17 RUBY PHARMA, SOLAPUR      CR/456           19364                6984.00
-27/07/17 SHIVAM AGENCIES, BARSHI   CR/441           8242                  294.00
-27/07/17 RUBY PHARMA, SOLAPUR      CR/442           19192                 960.00
-27/07/17 RAJ DISTRIBUTORS BARSHI   CR/465           599                  1284.00
-28/07/17 SURAJ MEDICAL &GENERAL ST CR/444           2239                  466.00
-28/07/17 RAJENDRA AGENCIES BARSHI  CR/445           1406                 2212.00
-28/07/17 RAJENDRA MEDICAL STORES   CR/446           734                   960.00
-28/07/17 METRO PHARMA              CA/17            4064                  823.00
-28/07/17 BAHUBALI PHARMACEUTICAL D CR/447           3650                  432.00
-29/07/17 SURYA DISTRIBUTORS BARSHI CR/457           733                   636.00
-29/07/17 RAJ DISTRIBUTORS BARSHI   CR/458           621                  1537.00
-29/07/17 SHRI VAISHNAVI DISTRIBUTO CR/459           744                  1765.00
-29/07/17 SURYA DISTRIBUTORS BARSHI CR/460           725                  1736.00
-29/07/17 RAJENDRA MEDICAL STORES   CR/461           736                  1803.00
-29/07/17 SURAJ MEDICAL &GENERAL ST CR/470           2277                 1378.00
-29/07/17 SHIVAM SALES SOLAPUR      CR/472           OS18-138             1315.00
-29/07/17 BAHUBALI PHARMACEUTICAL D CR/473           3722                  174.00
-31/07/17 RAJ DISTRIBUTORS BARSHI   CR/462           601                   476.00
-31/07/17 SHRI MANJUSHRI PHARMA     CR/463           5465                  572.00
-31/07/17 SHRI MANJUSHRI PHARMA     CR/464           5466                 2652.00
-31/07/17 BAHUBALI PHARMACEUTICAL D CR/466           3695                 2307.00
-31/07/17 APTE AGENCIES             CR/467           18158                4040.00
-31/07/17 GURUKRUPA DISTRIBUTORS    CR/469           1587                  287.00
-31/07/17 SHIVLILA AGENCIES BARSHI. CR/471           4777                  938.00
-31/07/17 SAMARTH SALES CONSUMER    CR/474           S132                  759.00
-01/08/17 DHANWANTARI MEDICAL STORE CR/468           5394                 1860.00
-01/08/17 RAJ DISTRIBUTORS BARSHI   CR/475           657                  1437.00
-01/08/17 SHRI MANJUSHRI PHARMA     CR/476           5534                  991.00
-01/08/17 RAJ DISTRIBUTORS BARSHI   CR/477           664                   480.00
-02/08/17 SHIVLILA AGENCIES BARSHI. CR/478           4881                  823.00
-02/08/17 SHRI GANRAJ DISTRIBUTORS  CR/479           SG-1037               480.00
-02/08/17 KRISHNA DISTRIBUTORS      CR/484           3127                 2997.00
-03/08/17 BAHUBALI PHARMACEUTICAL D CR/480           3829                  768.00
-03/08/17 SHIVAM AGENCIES, BARSHI   CR/481           8377                  770.00
-03/08/17 PANDURANG DRUG HOUSE      CR/482           7180                  689.00
-03/08/17 APTE AGENCIES             CR/483           18789                1677.00
-03/08/17 SURYA DISTRIBUTORS BARSHI CR/485           768                  4260.00
-03/08/17 SHREE MANJUSHREE PHARMA   CR/486           5574                 3327.00
-04/08/17 SAMARTH SALES CONSUMER    CR/487           S158                  666.00
-04/08/17 SHREE MANJUSHREE PHARMA   CR/488           5679                  884.00
-04/08/17 SHRI BALAJI AGENCIES      CR/489           719                  1531.00
-05/08/17 APTE AGENCIES             CR/490           19090                 847.00
-05/08/17 KRISHNA DISTRIBUTORS      CR/491           3176                  652.00
-05/08/17 DHANWANTARI MEDICAL STORE CR/492           5668                 1116.00
-05/08/17 APTE AGENCIES             CR/493           19177                 824.00
-05/08/17 SHRI GANRAJ DISTRIBUTORS  CR/494           1081                  832.00
-07/08/17 SHIVLILA AGENCIES BARSHI. CR/495           5093                  295.00
-07/08/17 GURUKRUPA DISTRIBUTORS    CR/496           1666                  821.00
-07/08/17 SHREE MANJUSHREE PHARMA   CR/497           5755                 1430.00
-07/08/17 SHIVAM SALES SOLAPUR      CR/498           OS18-179              246.00
-07/08/17 PANDURANG DRUG HOUSE      CR/499           7449                 1165.00
-07/08/17 APTE AGENCIES             CR/500           19243                1606.00
-07/08/17 PANDURANG DRUG HOUSE      CR/511           7666                 2190.00
-09/08/17 SURYA DISTRIBUTORS BARSHI CR/501           795                  5586.00
-09/08/17 SURYA DISTRIBUTORS BARSHI CR/502           796                  1682.00
-09/08/17 TRIMURTI DISTRIBUTORS     CR/503           1693                  628.00
-09/08/17 BALDAWA ENTERPRISES SOLAP CR/506           997315               3669.00
-09/08/17 RAJENDRA AGENCIES BARSHI  CR/507           845                  1156.00
-10/08/17 NEPTUNE MEDICAL AND GENER CR/504           846                   531.00
-10/08/17 SHIVLILA AGENCIES BARSHI. CR/505           5191                  944.00
-10/08/17 APTE AGENCIES             CR/508           19836                 738.00
-10/08/17 APTE AGENCIES             CR/509           19837                 981.00
-10/08/17 DHANWANTARI MEDICAL STORE CR/510           5866                 1267.00
-11/08/17 SHREE MANJUSHREE PHARMA   CR/520           5963                  971.00
-12/08/17 KRISHNA DISTRIBUTORS      CR/512           3356                  583.00
-12/08/17 SHREE MANJUSHREE PHARMA   CR/517           6029                  869.00
-12/08/17 RAJ DISTRIBUTORS BARSHI   CR/518           774                  1425.00
-12/08/17 GURUKRUPA DISTRIBUTORS    CR/521           1723                 1495.00
-12/08/17 APTE AGENCIES             CR/522           20216                2223.00
-14/08/17 SURAJ MEDICAL &GENERAL ST CR/513           2575                  329.00
-14/08/17 APTE AGENCIES             CR/514           20070                 683.00
-14/08/17 BAHUBALI PHARMACEUTICAL D CR/515           4082                  211.00
-14/08/17 SAMARTH SALES CONSUMER    CR/516           5200                  364.00
-14/08/17 SHIVAM AGENCIES, BARSHI   CR/519           8531                  671.00
-14/08/17 APTE AGENCIES             CR/523           20307                 660.00
-14/08/17 GURUKRUPA DISTRIBUTORS    CR/524           1726                  487.00
-14/08/17 SHREE MANJUSHREE PHARMA   CR/525           6084                 2183.00
-14/08/17 K-MAX PHARMA BARSHI       CR/526           KM 1269               707.00
-14/08/17 K-MAX PHARMA BARSHI       CR/529           1270                  840.00
-15/08/17 SHIVLILA AGENCIES BARSHI. CR/527           5383                  590.00
-15/08/17 DHANWANTARI MEDICAL STORE CR/528           6022                 1235.00
-16/08/17 APTE AGENCIES             CR/530           20693                2069.00
-16/08/17 APTE AGENCIES             CR/531           20701                 201.00
-16/08/17 PANDURANG DRUG HOUSE      CR/532           7917                 1662.00
-16/08/17 SHIVLILA AGENCIES BARSHI. CR/533           5425                 1487.00
-16/08/17 DHANWANTARI MEDICAL STORE CR/534           6147                 1233.00
-16/08/17 SHRI BALAJI AGENCIES      CR/535           756                  1255.00
-16/08/17 SURAJ MEDICAL &GENERAL ST CR/536           2638                 2840.00
-16/08/17 PANDURANG DRUG HOUSE      CR/537           7993                  632.00
-17/08/17 PANDURANG DRUG HOUSE      CR/538           8004                  806.00
-17/08/17 SHREE MANJUSHREE PHARMA   CR/539           6197                 1433.00
-17/08/17 RAJ DISTRIBUTORS BARSHI   CR/540           846                  1153.00
-17/08/17 KRISHNA DISTRIBUTORS      CR/541           3465                  176.00
-17/08/17 APTE AGENCIES             CR/542           21042                1319.00
-17/08/17 DHANWANTARI MEDICAL STORE CR/545           6196                 3080.00
-17/08/17 SHRI BALAJI AGENCIES      CR/546           771                  1652.00
-19/08/17 SHREE MANJUSHREE PHARMA   CR/543           6322                 3323.00
-19/08/17 SHREE MANJUSHREE PHARMA   CR/544           6338                 3746.00
-21/08/17 SHREE MANJUSHREE PHARMA   CR/547           6389                 4669.00
-21/08/17 SAMARTH SALES CONSUMER    CR/548           239                   568.00
-21/08/17 RAJENDRA MEDICAL STORES   CR/549           933                  2174.00
-21/08/17 SHRI GANRAJ DISTRIBUTORS  CR/550           1273                  943.00
-21/08/17 SHIVLILA AGENCIES BARSHI. CR/551           5664                  576.00
-21/08/17 SHIVAM SALES SOLAPUR      CR/552           243                   783.00
-21/08/17 GURUKRUPA DISTRIBUTORS    CR/553           1836                 2044.00
-21/08/17 DHANWANTARI MEDICAL STORE CR/554           6374                  926.00
-21/08/17 APTE AGENCIES             CR/555           21356                2696.00
-23/08/17 APTE AGENCIES             CR/556           21779                1105.00
-23/08/17 SHRI BALAJI AGENCIES      CR/557           783                   903.00
-23/08/17 RAJENDRA MEDICAL STORES   CR/558           1652                 1610.00
-23/08/17 SHREE MANJUSHREE PHARMA   CR/559           6469                 1452.00
-23/08/17 KALE DISTRIBUTORS BARSHI  CR/560           285                   728.00
-23/08/17 APTE AGENCIES             CR/561           21865                1482.00
-23/08/17 SURAJ MEDICAL &GENERAL ST CR/562           2800                  462.00
-23/08/17 RAJENDRA AGENCIES BARSHI  CR/563           1689                 2015.00
-24/08/17 DHANWANTARI MEDICAL STORE CR/564           6562                 1925.00
-24/08/17 KRISHNA DISTRIBUTORS      CR/565           3693                  735.00
-24/08/17 SHRI BALAJI AGENCIES      CR/566           797                  1352.00
-24/08/17 PANDURANG DRUG HOUSE      CR/567           8401                  689.00
-25/08/17 TRIMURTI DISTRIBUTORS     CR/568           1984                 1250.00
-25/08/17 SHIVLILA AGENCIES BARSHI. CR/569           5855                  576.00
-26/08/17 GURUKRUPA DISTRIBUTORS    CR/570           1896                  497.00
-26/08/17 METRO PHARMA              CA/18            5071                  859.00
-26/08/17 SURAJ MEDICAL &GENERAL ST CR/571           2868                 1056.00
-26/08/17 VIVEK AGENCIES KURDUWADI  CR/572           306                  1989.00
-26/08/17 RAJENDRA MEDICAL STORES   CR/573           989                  1499.00
-26/08/17 DHANWANTARI MEDICAL STORE CR/574           6701                  699.00
-26/08/17 APTE AGENCIES             CR/575           22267                1691.00
-26/08/17 KRISHNA DISTRIBUTORS      CR/581           3753                  903.00
-28/08/17 APTE AGENCIES             CR/576           22437                1242.00
-28/08/17 RAJENDRA AGENCIES BARSHI  CR/577           1737                 2562.00
-28/08/17 GURUKRUPA DISTRIBUTORS    CR/578           1935                 1256.00
-28/08/17 SHREE MANJUSHREE PHARMA   CR/579           6700                 1342.00
-28/08/17 SHIVAM AGENCIES, BARSHI   CR/580           8842                  635.00
-29/08/17 SHIVAM AGENCIES           CR/582           8851                  739.00
-30/08/17 ORTBIT PHARMA BARSHI.     CR/585           359                   826.00
-31/08/17 PANDURANG DRUG HOUSE      CR/583           8782                 3403.00
-01/09/17 SURAJ MEDICAL &GENERAL ST CR/584           2968                 1810.00
-01/09/17 APTE AGENCIES             CR/587           23162                 126.00
-01/09/17 APTE AGENCIES             CR/588           23331                1208.00
-01/09/17 BAHUBALI PHARMACEUTICAL D CR/596           4737                  480.00
-01/09/17 RAJENDRA AGENCIES BARSHI  CR/597           1794                  326.00
-02/09/17 APTE AGENCIES             CR/586           23749                1855.00
-02/09/17 SURYA DISTRIBUTORS BARSHI CR/594           932                  1081.00
-02/09/17 SURYA DISTRIBUTORS BARSHI CR/595           915                  4592.00
-04/09/17 SHRI GANRAJ DISTRIBUTORS  CR/591           1416                  440.00
-04/09/17 SHIVAM SALES SOLAPUR      CR/592           18-323                326.00
-04/09/17 GURUKRUPA DISTRIBUTORS    CR/593           2021                  689.00
-04/09/17 SUMANT DISTRIBUTORS PVT.  CR/598           3874                  752.00
-04/09/17 SURAJ MEDICAL &GENERAL ST CR/599           3019                 2016.00
-04/09/17 SHIVLILA AGENCIES BARSHI. CR/600           6245                  582.00
-04/09/17 SURYA DISTRIBUTORS BARSHI CR/603           933                   325.00
-04/09/17 DHANWANTARI MEDICAL STORE CR/604           7202                 2086.00
-04/09/17 BAHUBALI PHARMACEUTICAL D CR/605           4834                 1353.00
-04/09/17 RAJENDRA AGENCIES BARSHI  CR/606           1822                 1702.00
-05/09/17 K-MAX PHARMA BARSHI       CR/589           1302                  712.00
-05/09/17 KRISHNA DISTRIBUTORS      CR/590           3983                 1485.00
-05/09/17 SURYA DISTRIBUTORS BARSHI CR/601           948                  6493.00
-05/09/17 KALE DISTRIBUTORS BARSHI  CR/602           327                   388.00
-05/09/17 SANJIVANI MEDICALS BARSHI CR/607           341                  1397.00
-05/09/17 RAJ DISTRIBUTORS BARSHI   CR/609           1032                  599.00
-05/09/17 SURAJ MEDICAL &GENERAL ST CR/610           3055                  342.00
-05/09/17 APTE AGENCIES             CR/611           23934                 617.00
-05/09/17 METRO PHARMA              CA/19            5475                  419.00
-06/09/17 SANJIVANI MEDICALS BARSHI CR/608           348                  1581.00
-07/09/17 SURYA DISTRIBUTORS BARSHI CR/612           961                  3276.00
-07/09/17 BAHUBALI PHARMACEUTICAL D CR/613           4924                  921.00
-07/09/17 SHREE MANJUSHREE PHARMA   CR/614           7093                 3211.00
-07/09/17 DHANWANTARI MEDICAL STORE CR/615           7255                  430.00
-07/09/17 TRIMURTI DISTRIBUTORS     CR/616           2187                 1632.00
-07/09/17 PANDURANG DRUG HOUSE      CR/617           9214                 1385.00
-07/09/17 SHREE MANJUSHREE PHARMA   CR/618           7101                  614.00
-07/09/17 KRISHNA DISTRIBUTORS      CR/619           4035                  256.00
-07/09/17 PANDURANG DRUG HOUSE      CR/620           9276                 1642.00
-07/09/17 VIVEK AGENCIES KURDUWADI  CR/621           396                  1612.00
-07/09/17 SHREE MEDICALS            CR/622           3626                 1264.00
-07/09/17 DHANWANTARI MEDICAL STORE CR/625           7324                 1056.00
-08/09/17 DHANWANTARI MEDICAL STORE CR/626           7338                  980.00
-08/09/17 APTE AGENCIES             CR/627           24318                2488.00
-09/09/17 GURUKRUPA DISTRIBUTORS    CR/624           2052                  779.00
-09/09/17 KRISHNA DISTRIBUTORS      CR/628           4099                 1304.00
-09/09/17 APTE AGENCIES             CR/629           24506                 947.00
-11/09/17 KRISHNA DISTRIBUTORS      CR/623           4056                 1348.00
-11/09/17 DHANWANTARI MEDICAL STORE CR/630           7442                  519.00
-11/09/17 RAJ DISTRIBUTORS BARSHI   CR/631           1102                  208.00
-11/09/17 SHIVLILA AGENCIES BARSHI. CR/638           6503                 1125.00
-11/09/17 SHREE MANJUSHREE PHARMA   CR/639           7302                 2688.00
-11/09/17 TRIMURTI DISTRIBUTORS     CR/642           2259                  934.00
-11/09/17 GURUKRUPA DISTRIBUTORS    CR/644           2107                  624.00
-11/09/17 GURUKRUPA DISTRIBUTORS    CR/645           2108                  625.00
-11/09/17 APTE AGENCIES             CR/646           25131                1872.00
-11/09/17 SURAJ MEDICAL &GENERAL ST CR/680           3173                 1128.00
-11/09/17 SAMARTH SALES CONSUMER    CR/681           420                  2251.00
-11/09/17 DHANWANTARI MEDICAL STORE CR/682           8057                  647.00
-12/09/17 SHIVAM AGENCIES, BARSHI   CR/640           9142                  931.00
-12/09/17 KRISHNA DISTRIBUTORS      CR/641           4168                 1480.00
-12/09/17 APTE AGENCIES             CR/643           24902                 758.00
-13/09/17 KRISHNA DISTRIBUTORS      CR/636           4206                 2682.00
-13/09/17 PANDURANG DRUG HOUSE      CR/637           9581                  986.00
-13/09/17 TRIMURTI DISTRIBUTORS     CR/647           2297                 1328.00
-14/09/17 RAJ DISTRIBUTORS BARSHI   CR/632           1129                 1152.00
-14/09/17 DHANWANTARI MEDICAL STORE CR/633           7621                 4227.00
-14/09/17 RAJENDRA MEDICAL STORES   CR/634           1182                  551.00
-14/09/17 SHIVAM AGENCIES, BARSHI   CR/635           9181                  384.00
-15/09/17 SHREE MANJUSHREE PHARMA   CR/648           7515                 4025.00
-15/09/17 RAJENDRA AGENCIES BARSHI  CR/649           1948                  213.00
-15/09/17 M/S UNITED MEDICAL AGENCI CR/650           55292                1430.00
-15/09/17 APTE AGENCIES             CR/651           25487                 656.00
-15/09/17 SHRI BALAJI AGENCIES      CR/652           881                   556.00
-15/09/17 SURYA DISTRIBUTORS BARSHI CR/653           1026                  728.00
-15/09/17 SHRI VAISHNAVI DISTRIBUTO CR/654           1104                 1518.00
-15/09/17 SHIVLILA AGENCIES BARSHI. CR/655           6719                  688.00
-16/09/17 KRISHNA DISTRIBUTORS      CR/656           4310                  303.00
-16/09/17 VIVEK AGENCIES KURDUWADI  CR/657           450                   792.00
-16/09/17 APTE AGENCIES             CR/658           25652                1043.00
-18/09/17 RAJENDRA MEDICAL STORES   CR/659           1212                 1008.00
-18/09/17 SHRI BALAJI AGENCIES      CR/660           894                   904.00
-18/09/17 SURYA DISTRIBUTORS BARSHI CR/661           1047                 5934.00
-18/09/17 VIVEK AGENCIES KURDUWADI  CR/662           492                   533.00
-18/09/17 DHANWANTARI MEDICAL STORE CR/663           7830                 1024.00
-18/09/17 GURUKRUPA DISTRIBUTORS    CR/664           2188                  895.00
-18/09/17 SHREE MANJUSHREE PHARMA   CR/665           7668                 2400.00
-18/09/17 SAMARTH SALES CONSUMER    CR/666           398                   299.00
-18/09/17 RAJENDRA AGENCIES BARSHI  CR/667           2001                 1571.00
-19/09/17 APTE AGENCIES             CR/668           26055                1068.00
-19/09/17 APTE AGENCIES             CR/669           26109                 285.00
-19/09/17 TRIMURTI DISTRIBUTORS     CR/670           2409                  849.00
-19/09/17 TRIMURTI DISTRIBUTORS     CR/671           2412                 1328.00
-19/09/17 APTE AGENCIES             CR/672           26257                 324.00
-20/09/17 DHANWANTARI MEDICAL STORE CR/673           7965                 1539.00
-20/09/17 SHIVLILA AGENCIES BARSHI. CR/674           6921                  576.00
-21/09/17 SHREE MANJUSHREE PHARMA   CR/675           7804                 3022.00
-21/09/17 SHREE MANJUSHREE PHARMA   CR/676           7811                 1847.00
-21/09/17 KRISHNA DISTRIBUTORS      CR/677           4416                  848.00
-21/09/17 SURYA DISTRIBUTORS BARSHI CR/678           1065                 1280.00
-21/09/17 SURYA DISTRIBUTORS BARSHI CR/679           1066                 2339.00
-22/09/17 APTE AGENCIES             CR/683           26451                 314.00
-22/09/17 PANDURANG DRUG HOUSE      CR/709           10090                2528.00
-23/09/17 APTE AGENCIES             CR/684           26860                 247.00
-23/09/17 SHREE MANJUSHREE PHARMA   CR/685           7880                 1296.00
-23/09/17 SAMARTH SALES             CR/686           398                   753.00
-23/09/17 RAJ DISTRIBUTORS BARSHI   CR/687           1232                 1214.00
-23/09/17 SHREE MANJUSHREE PHARMA   CR/688           7944                  735.00
-23/09/17 K-MAX PHARMA BARSHI       CR/689           1359                  670.00
-23/09/17 RAJENDRA AGENCIES BARSHI  CR/690           2067                 2266.00
-25/09/17 APTE AGENCIES             CR/691           26934                 859.00
-25/09/17 METRO PHARMA BARSHI.      CA/20            6184                 1014.00
-25/09/17 SHREE MANJUSHREE PHARMA   CR/692           8004                  966.00
-25/09/17 DHANWANTARI MEDICAL STORE CR/697           8196                  906.00
-25/09/17 SURYA DISTRIBUTORS BARSHI CR/698           1099                 4659.00
-25/09/17 SHIVLILA AGENCIES BARSHI. CR/699           7212                  344.00
-25/09/17 KALE DISTRIBUTORS BARSHI  CR/700           414                   601.00
-26/09/17 APTE AGENCIES             CR/693           27142                1016.00
-26/09/17 APTE AGENCIES             CR/694           27001                 842.00
-26/09/17 BAHUBALI PHARMACEUTICAL D CR/695           5504                  842.00
-27/09/17 SHREE MANJUSHREE PHARMA   CR/696           8067                 1688.00
-27/09/17 SURYA DISTRIBUTORS BARSHI CR/701           1105                 2844.00
-27/09/17 BAHUBALI PHARMACEUTICAL D CR/702           5579                  184.00
-27/09/17 KRISHNA DISTRIBUTORS      CR/703           4595                  172.00
-27/09/17 SURAJ MEDICAL &GENERAL ST CR/704           3535                 2295.00
-27/09/17 RAJENDRA MEDICAL STORES   CR/705           1332                 1162.00
-28/09/17 PRASAD AGENCIES           CR/706           1899                 1419.00
-28/09/17 DHANWANTARI MEDICAL STORE CR/707           8401                 2950.00
-28/09/17 GURUKRUPA DISTRIBUTORS    CR/708           2523                 1412.00
-28/09/17 SHREE MANJUSHREE PHARMA   CR/710           8112                 1488.00
-28/09/17 PANDURANG DRUG HOUSE      CR/711           1670                 1670.00
-28/09/17 KRISHNA DISTRIBUTORS      CR/712           4625                  363.00
-02/10/17 KRISHNA DISTRIBUTORS      CR/713           4664                 1632.00
-02/10/17 SHREE MANJUSHREE PHARMA   CR/714           1544                 1382.00
-02/10/17 KRISHNA DISTRIBUTORS      CR/715           4683                  709.00
-02/10/17 SHREE MEDICALS            CR/716           4142                  844.00
-02/10/17 SHREE MANJUSHREE PHARMA   CR/717           8316                 1474.00
-02/10/17 SHREE MANJUSHREE PHARMA   CR/718           8332                 3700.00
-02/10/17 SAMARTH SALES             CR/719           474                   546.00
-02/10/17 TRIMURTI DISTRIBUTORS     CR/720           2621                 1716.00
-02/10/17 SHRI VAISHNAVI DISTRIBUTO CR/721           2223                  544.00
-02/10/17 RAJENDRA MEDICAL STORES   CR/722           1392                  524.00
-02/10/17 SURYA DISTRIBUTORS BARSHI CR/723           1121                 2797.00
-02/10/17 APTE AGENCIES             CR/724           28122                1119.00
-02/10/17 SHIVLILA AGENCIES BARSHI. CR/725           7405                  384.00
-02/10/17 APTE AGENCIES             CR/726           28101                1600.00
-02/10/17 RAJENDRA AGENCIES BARSHI  CR/734           2149                 2257.00
-04/10/17 APTE AGENCIES             CR/727           28601                1807.00
-04/10/17 SHIVLILA AGENCIES BARSHI. CR/728           7505                 1380.00
-06/10/17 BAHUBALI PHARMACEUTICAL D CR/729           5839                  208.00
-06/10/17 SHREE MANJUSHREE PHARMA   CR/730           8482                  533.00
-06/10/17 APTE AGENCIES             CR/731           28930                1611.00
-06/10/17 SHREE MEDICALS            CR/732           4234                  454.00
-06/10/17 KRISHNA DISTRIBUTORS      CR/733           4770                  711.00
-06/10/17 SHIVLILA AGENCIES BARSHI. CR/735           7605                  394.00
-06/10/17 DHANWANTARI MEDICAL STORE CR/736           8801                  747.00
-06/10/17 SURAJ MEDICAL &GENERAL ST CR/737           3722                 1248.00
-06/10/17 METRO PHARMA BARSHI.      CA/21            6613                  865.00
-06/10/17 PANDURANG DRUG HOUSE      CR/738           10873                 768.00
-06/10/17 PANDURANG DRUG HOUSE      CR/739           10900                 720.00
-07/10/17 SHREE MANJUSHREE PHARMA   CR/740           8542                 4870.00
-07/10/17 SAMARTH SALES             CR/741           500                   294.00
-07/10/17 SHIVLILA AGENCIES BARSHI. CR/743           7642                 1131.00
-07/10/17 TRIMURTI DISTRIBUTORS     CR/744           2736                 2190.00
-08/10/17 RAJ DISTRIBUTORS BARSHI   CR/748           1385                 3265.00
-09/10/17 PANDURANG DRUG HOUSE      CR/742           11013                2033.00
-09/10/17 DHANWANTARI MEDICAL STORE CR/749           8888                 2055.00
-09/10/17 SURYA DISTRIBUTORS BARSHI CR/750           1159                 5635.00
-09/10/17 RAJENDRA AGENCIES BARSHI  CR/751           1462                 1581.00
-09/10/17 SURAJ MEDICAL &GENERAL ST CR/752           3757                  870.00
-09/10/17 RAJ DISTRIBUTORS BARSHI   CR/753           1393                  307.00
-09/10/17 KRISHNA DISTRIBUTORS      CR/765           4845                  738.00
-09/10/17 APTE AGENCIES             CR/768           29287                1913.00
-09/10/17 RAJ DISTRIBUTORS BARSHI   CR/769           1401                  342.00
-09/10/17 KRISHNA DISTRIBUTORS      CR/771           4861                 1006.00
-09/10/17 SHREE MANJUSHREE PHARMA   CR/772           8605                  904.00
-09/10/17 SHIVLILA AGENCIES BARSHI. CR/773           7736                  186.00
-09/10/17 SURAJ MEDICAL &GENERAL ST CR/774           3831                 1841.00
-09/10/17 KRISHNA DISTRIBUTORS      CR/775           4941                  176.00
-10/10/17 KALE DISTRIBUTORS BARSHI  CR/745           451                   424.00
-10/10/17 BAHUBALI PHARMACEUTICAL D CR/746           5982                  766.00
-10/10/17 RAJ DISTRIBUTORS BARSHI   CR/747           1404                 1158.00
-10/10/17 BAHUBALI PHARMACEUTICAL D CR/754           5987                 1412.00
-10/10/17 APTE AGENCIES             CR/755           29629                 238.00
-10/10/17 APTE AGENCIES             CR/756           29537                 347.00
-10/10/17 RAJ DISTRIBUTORS BARSHI   CR/757           1411                  309.00
-10/10/17 DHANWANTARI MEDICAL STORE CR/759           8946                 1327.00
-10/10/17 SURYA DISTRIBUTORS BARSHI CR/760           1174                 2711.00
-10/10/17 PANDURANG DRUG HOUSE      CR/761           11115                3012.00
-10/10/17 RAJENDRA AGENCIES BARSHI  CR/762           2279                  917.00
-10/10/17 SANJIVANI MEDICALS BARSHI CR/763           411                  1938.00
-10/10/17 TRIMURTI DISTRIBUTORS     CR/764           2800                 1068.00
-11/10/17 APTE AGENCIES             CR/758           29876                2149.00
-11/10/17 DHANWANTARI MEDICAL STORE CR/767           9026                 1037.00
-12/10/17 SURYA DISTRIBUTORS BARSHI CR/776           1186                 3589.00
-12/10/17 SHRI VAISHNAVI DISTRIBUTO CR/777           1273                 1299.00
-12/10/17 SHREE MANJUSHREE PHARMA   CR/778           8739                 3305.00
-12/10/17 APTE AGENCIES             CR/779           30012                 660.00
-12/10/17 METRO PHARMA BARSHI.      CA/22            6826                  823.00
-12/10/17 SURAJ AGENCIES            CR/798           2581                 1049.00
-13/10/17 RAJ DISTRIBUTORS BARSHI   CR/766           1444                  859.00
-13/10/17 APTE AGENCIES             CR/770           30108                1432.00
-13/10/17 DHANWANTARI MEDICAL STORE CR/780           9141                  440.00
-13/10/17 SHIVLILA AGENCIES BARSHI. CR/781           7890                 1939.00
-13/10/17 SHRI GANRAJ DISTRIBUTORS  CR/782           1845                  440.00
-14/10/17 BAHUBALI PHARMACEUTICAL D CR/783           6116                  318.00
-14/10/17 RAJ DISTRIBUTORS BARSHI   CR/784           1455                  441.00
-14/10/17 SHIVLILA AGENCIES BARSHI. CR/785           7834                  334.00
-14/10/17 SHRI VAISHNAVI DISTRIBUTO CR/786           1291                  195.00
-14/10/17 SURYA DISTRIBUTORS BARSHI CR/787           1198                 1763.00
-15/10/17 SHIVLILA AGENCIES BARSHI. CR/788           7985                  768.00
-15/10/17 SHREE MANJUSHREE PHARMA   CR/789           8874                  512.00
-15/10/17 RAJENDRA AGENCIES BARSHI  CR/790           2330                 1411.00
-17/10/17 SURAJ AGENCIES            CR/791           2723                  774.00
-17/10/17 RAJENDRA MEDICAL STORES   CR/792           1567                 2374.00
-17/10/17 APTE AGENCIES             CR/793           30450                 682.00
-17/10/17 BAHUBALI PHARMACEUTICAL D CR/794           6227                  208.00
-17/10/17 RAJ DISTRIBUTORS BARSHI   CR/795           1472                  130.00
-17/10/17 KALE DISTRIBUTORS BARSHI  CR/796           470                   541.00
-17/10/17 APTE AGENCIES             CR/797           30703                 938.00
-17/10/17 PANDURANG DRUG HOUSE      CR/800           11550                1698.00
-17/10/17 APTE AGENCIES             CR/801           30814                1575.00
-17/10/17 DHANWANTARI MEDICAL STORE CR/802           9337                  862.00
-17/10/17 SHREE MANJUSHREE PHARMA   CR/803           9012                  506.00
-18/10/17 SHRI BALAJI AGENCIES      CR/799           1008                 2929.00
-19/10/17 SHREE MANJUSHREE PHARMA   CR/804           9103                 2941.00
-19/10/17 SHRI GANRAJ DISTRIBUTORS  CR/805           1921                 1298.00
-19/10/17 SURAJ MEDICAL &GENERAL ST CR/806           3995                  792.00
-21/10/17 RAJ DISTRIBUTORS BARSHI   CR/807           1517                  822.00
+Date      Particulars             Voucher No.       Bill No               Amount
+04/04/17     SHIVLILA AGENCIES             CR/1             62                    752.00
+04/04/17     APTE AGENCIES                 CR/2             178                   238.00
+04/04/17     APTE AGENCIES                 CR/3             106                  3472.00
+04/04/17     DHANWANTRI MEDICAL STORES     CR/4             19                   1222.00
+04/04/17     MANJUSHRI PHARMA              CR/5             19                   2078.00
+04/04/17     RAJENDRA MEDICAL STORES       CR/6             9                    1263.00
+04/04/17     RAJENDRA AGENCIES             CR/7             42                    528.00
+04/04/17     SURYA DISTRIBUTORS            CR/8             14                   6009.00
+04/04/17     RAJENDRA AGENCIES             CR/9             39                   2531.00
+05/04/17     PANDURANG DRUG HOUSE          CR/10            99                    916.00
+05/04/17     BAHUBALI PHARMACEUTICALS      CR/11            99                    992.00
+05/04/17     SHIVLILA AGENCIES             CR/12            177                   360.00
+05/04/17     PANDURANG DRUG HOUSE          CR/13            114                  1223.00
+06/04/17     GURUKRUPA DISTRIBUTORS, B     CR/14            76                    499.00
+06/04/17     KRISHNA DISTRIBUTORS          CR/15            77                    899.00
+06/04/17     APTE AGENCIES                 CR/16            701                   972.00
+06/04/17     RAJENDRA AGENCIES             CR/17                57                   1034.00
+06/04/17     DHANWANTRI MEDICAL STORES     CR/18            187                  3734.00
+08/04/17     KRISHNA DISTRIBUTORS          CR/19            169                  1191.00
+08/04/17     SHREE MEDICALS                CR/25            163                  1120.00
+08/04/17     SHIVLILA AGENCIES             CR/26            346                   663.00
+09/04/17     SAMARATH SALES                CR/20            23                    286.00
+09/04/17     VIVEK AGENCIES                CR/21            46                   1323.00
+09/04/17     RAJ DISTRIBUTORS              CR/22            58                   1431.00
+09/04/17     SURAJ MEDICAL & GENERAL S     CR/23            134                   655.00
+09/04/17     GURUKRUPA DISTRIBUTORS, B     CR/24            107                  1091.00
+10/04/17     BAHUBALI PHARMACEUTICALS      CR/27            278                  1520.00
+10/04/17     SURYA DISTRIBUTORS            CR/28            37                   5372.00
+10/04/17     APTE AGENCIES                 CR/29            1150                 2003.00
+10/04/17     MANJUSHRI PHARMA              CR/30            380                   592.00
+11/04/17     GURUKRUPA DISTRIBUTORS, B     CR/31            144                   798.00
+11/04/17     RAJENDRA MEDICAL STORES       CR/32            82                   1363.00
+11/04/17     MANJUSHRI PHARMA              CR/36            403                   533.00
+11/04/17     APTE AGENCIES                 CR/37            1789                  859.00
+12/04/17     BAHUBALI PHARMACEUTICALS      CR/33            367                   309.00
+12/04/17     DHANWANTRI MEDICAL STORES     CR/34            466                  1546.00
+12/04/17     BAHUBALI PHARMACEUTICALS      CR/35            328                  1316.00
+13/04/17     GURUKRUPA DISTRIBUTORS, B     CR/38            182                   845.00
+14/04/17     PANDURANG DRUG HOUSE          CR/39            714                   815.00
+14/04/17     PANDURANG DRUG HOUSE          CR/40            697                  1337.00
+14/04/17     K-MAX PHARMA.                 CR/41            1036                 1210.00
+14/04/17     RAJENDRA AGENCIES             CR/42            144                  1590.00
+14/04/17     APTE AGENCIES                 CR/43            2127                 1805.00
+14/04/17     APTE AGENCIES                 CR/44            2152                  633.00
+17/04/17     APTE AGENCIES                 CR/45            2261                 1248.00
+17/04/17     SHRI BALAJI AGENCIES          CR/46            62                    740.00
+17/04/17     DHANWANTRI MEDICAL STORES     CR/47            694                  1919.00
+17/04/17     MANJUSHRI PHARMA              CR/48            701                  2379.00
+17/04/17     GURUKRUPA DISTRIBUTORS B     CR/49            232                   633.00
+17/04/17     SURYA DISTRIBUTORS            CR/50            82                   5845.00
+17/04/17     BAHUBALI PHARMACEUTICALS      CR/51            501                  1556.00
+17/04/17     VIVEK AGENCIES                CR/52            123                  1864.00
+17/04/17     SHREE VAISHANVI DISTRIBUT     CR/53            89                    647.00
+17/04/17     SHIVAM SALES SOLAPUR         CR/54            94                    595.00
+17/04/17     RAJENDRA MEDICAL STORES       CR/55            128                   875.00
+18/04/17     PANDURANG DRUG HOUSE          CR/56            913                   972.00
+18/04/17     PANDURANG DRUG HOUSE          CR/57            892                   358.00
+18/04/17     PANDURANG DRUG HOUSE          CR/58            901                   696.00
+18/04/17     BAHUBALI PHARMACEUTICALS      CR/59            558                   339.00
+19/04/17     METRO PHARMA                  CA/1             581                   696.00
+19/04/17     SHIVLILA AGENCIES             CR/60            689                   800.00
+19/04/17     RAJ DISTRIBUTORS              CR/61            152                  1628.00
+19/04/17     APTE AGENCIES                 CR/62            2697                  593.00
+19/04/17     PANDURANG DRUG HOUSE          CR/63            981                   742.00
+19/04/17     SHIVLILA AGENCIES             CR/68            690                   663.00
+19/04/17     KRISHNA DISTRIBUTORS          CR/69            476                  1364.00
+19/04/17     APTE AGENCIES                 CR/70            3042                  520.00
+19/04/17     APTE AGENCIES                 CR/72            3057                  731.00
+20/04/17     BAHUBALI PHARMACEUTICALS      CR/64            652                  1109.00
+20/04/17     GURUKRUPA DISTRIBUTORS, B     CR/65            292                  1359.00
+20/04/17     SURYA DISTRIBUTORS            CR/66            106                  1033.00
+20/04/17     APTE AGENCIES                 CR/67            2875                 1075.00
+21/04/17     SHRI BALAJI AGENCIES          CR/71            98                    469.00
+22/04/17     GURUKRUPA DISTRIBUTORS, B     CR/73            319                   510.00
+22/04/17     BAHUBALI PHARMACEUTICALS      CR/74            714                  1576.00
+23/04/17     RAJ DISTRIBUTORS              CR/75            188                   976.00
+24/04/17     SURYA DISTRIBUTORS            CR/76            135                  1680.00
+24/04/17     DHANWANTRI MEDICAL STORES     CR/77            990                  1483.00
+24/04/17     AKSHAR MEDICALS               CR/78            320                  2241.00
+24/04/17     RAJENDRA MEDICAL STORES       CR/79            167                   921.00
+24/04/17     AKSHAR MEDICALS               CR/80            331                   401.00
+24/04/17     MANJUSHRI PHARMA              CR/81            1002                  788.00
+24/04/17     APTE AGENCIES                 CR/82            3445                 1311.00
+25/04/17     BAHUBALI PHARMACEUTICALS      CR/83            805                  1973.00
+25/04/17     BAHUBALI PHARMACEUTICALS      CR/84            812                   320.00
+25/04/17     PANDURANG DRUG HOUSE          CR/85            1359                 1723.00
+26/04/17     AKSHAR MEDICALS               CR/87            372                   146.00
+27/04/17     GURUKRUPA DISTRIBUTORS, B     CR/86            385                   904.00
+27/04/17     DHANWANTRI MEDICAL STORES     CR/88            1181                 1903.00
+28/04/17     SURYA DISTRIBUTORS            CR/89            162                  3942.00
+28/04/17     SAMARATH SALES                CR/90            117                   326.00
+28/04/17     SHRI GANRAJ DIST.             CR/91            248                  2016.00
+28/04/17     NEPTUNE MEDICAL               CA/2             145                   254.00
+01/05/17     SHREE VAISHANVI DISTRIBUT     CR/92            154                   478.00
+01/05/17     BAHUBALI PHARMACEUTICALS      CR/93            943                   842.00
+01/05/17     APTE AGENCIES                 CR/94            4143                 1056.00
+01/05/17     SHIVAM SALES, SOLAPUR         CR/95            105                   394.00
+01/05/17     SANJIVANI MEDICALS BARSHI     CR/96            54                   1609.00
+01/05/17     BAHUBALI PHARMACEUTICALS      CR/97            959                   557.00
+01/05/17     RAJENDRA MEDICAL STORES       CR/98            200                   223.00
+01/05/17     APTE AGENCIES                 CR/99            4260                  404.00
+01/05/17     MANJUSHRI PHARMA              CR/100           1304                 2492.00
+01/05/17     APTE AGENCIES                 CR/101           4338                  446.00
+01/05/17     APTE AGENCIES                 CR/102           4298                 1182.00
+01/05/17     SURAJ MEDICAL & GENERAL S     CR/103           588                  1101.00
+01/05/17     RAJENDRA AGENCIES             CR/104           316                   710.00
+01/05/17     GURUKRUPA DISTRIBUTORS, B     CR/105           423                  1367.00
+01/05/17     APTE AGENCIES                 CR/106           4543                 2110.00
+01/05/17     MANJUSHRI PHARMA              CR/107           1346                  413.00
+03/05/17     PANDURANG DRUG HOUSE          CR/108           1823                  559.00
+03/05/17     SURYA DISTRIBUTORS            CR/109           197                  7394.00
+03/05/17     SAMARATH SALES                CR/110           146                   661.00
+03/05/17     GURUKRUPA DISTRIBUTORS, B     CR/111           453                  1780.00
+04/05/17     SHREE MEDICALS                CR/122           747                  2969.00
+04/05/17     DHANWANTRI MEDICAL STORES     CR/123           1665                  636.00
+05/05/17     SHIVLILA AGENCIES             CR/112           1343                 1573.00
+06/05/17     GURUKRUPA DISTRIBUTORS, B     CR/115           483                  1053.00
+06/05/17     NEPTUNE MEDICAL               CR/116           190                   446.00
+06/05/17     KRISHNA DISTRIBUTORS          CR/117           895                   661.00
+06/05/17     APTE AGENCIES                 CR/118           6206                 1187.00
+06/05/17     METRO PHARMA                  CA/3             1165                 1394.00
+06/05/17     SHIVAM SALES, SOLAPUR         CR/119           141                   552.00
+07/05/17     VIVEK AGENCIES                CR/113           234                  1206.00
+08/05/17     RAJ DISTRIBUTORS              CR/114           301                   912.00
+08/05/17     DHANWANTRI MEDICAL STORES     CR/120           1610                 2012.00
+08/05/17     APTE AGENCIES                 CR/121           5332                 1498.00
+09/05/17     GURUKRUPA DISTRIBUTORS, B     CR/124           494                   770.00
+09/05/17     SHIVLILA AGENCIES             CR/125           1465                 1485.00
+09/05/17     SUMANT DISTRIBUTORS PVT.      CR/128           2665                 1392.00
+10/05/17     BAHUBALI PHARMACEUTICALS      CR/126           1304                  797.00
+10/05/17     APTE AGENCIES                 CR/127           5778                 1488.00
+10/05/17     PANDURANG DRUG HOUSE          CR/129           2209                  943.00
+10/05/17     GURUKRUPA DISTRIBUTORS, B     CR/130           538                   883.00
+11/05/17     RAJENDRA MEDICAL STORES       CR/131           254                  1107.00
+11/05/17     MANJUSHRI PHARMA              CR/132           1740                 2371.00
+11/05/17     SURYA DISTRIBUTORS            CR/133           246                  2828.00
+11/05/17     AKSHAR MEDICALS               CR/134           584                   676.00
+11/05/17     MANJUSHRI PHARMA              CR/135           1796                  250.00
+11/05/17     DHANWANTRI MEDICAL STORES     CR/136           1819                  960.00
+11/05/17     KRISHNA DISTRIBUTORS          CR/137           1036                 2038.00
+11/05/17     SAMARATH SALES                CA/4             163                   390.00
+12/05/17     PANDURANG DRUG HOUSE          CR/138           2325                 1932.00
+13/05/17     APTE AGENCIES                 CR/139           6242                 1487.00
+13/05/17     METRO PHARMA                  CA/5             1402                  563.00
+13/05/17     MANJUSHRI PHARMA              CR/140           1873                 1311.00
+15/05/17     APTE AGENCIES                 CR/141           6371                  489.00
+15/05/17     RAJENDRA AGENCIES             CR/142           501                   941.00
+15/05/17     GURUKRUPA DISTRIBUTORS, B     CR/143           575                   894.00
+15/05/17     METRO PHARMA                  CA/6             1448                 1155.00
+15/05/17     SHRI BALAJI AGENCIES          CR/144           243                   461.00
+15/05/17     MANJUSHRI PHARMA              CR/145           1908                 2519.00
+17/05/17     DHANWANTRI MEDICAL STORES     CR/146           2046                 2265.00
+17/05/17     APTE AGENCIES                 CR/147           6826                  828.00
+17/05/17     SHIVLILA AGENCIES             CR/148           1768                  206.00
+17/05/17     APTE AGENCIES                 CR/149           6788                  875.00
+17/05/17     G1-ONE HEALTHCARE LLP         CR/150           29                   2238.00
+17/05/17     PANDURANG DRUG HOUSE          CR/151           2612                 1467.00
+18/05/17     DHANWANTRI MEDICAL STORES     CR/152           2109                  520.00
+18/05/17     SURYA DISTRIBUTORS            CR/153           292                  6167.00
+18/05/17     SHREE VAISHANVI DISTRIBUT     CA/7             20                   1892.00
+18/05/17     SHREE VAISHANVI DISTRIBUT     CR/154           271                  1022.00
+19/05/17     GURUKRUPA DISTRIBUTORS, B     CR/157           640                   583.00
+20/05/17     RAJENDRA AGENCIES             CR/155           445                  1511.00
+20/05/17     SHIVAM AGENCIES               CR/156           7096                  348.00
+20/05/17     SURYA DISTRIBUTORS            CR/158           301                  2579.00
+20/05/17     RAJENDRA AGENCIES             CR/159           578                  1921.00
+20/05/17     SHIVLILA AGENCIES             CR/160           1855                 1282.00
+20/05/17     RAJENDRA MEDICAL STORES       CR/161           306                   970.00
+20/05/17     APTE AGENCIES                 CR/162           7114                 3167.00
+20/05/17     SURAJ MEDICAL & GENERAL S     CR/163           932                  1014.00
+20/05/17     SHREE MEDICALS                CR/164           1069                  757.00
+20/05/17     MANJUSHRI PHARMA              CR/165           2142                  703.00
+20/05/17     BAHUBALI PHARMACEUTICALS      CR/166           1686                 1617.00
+20/05/17     MANJUSHRI PHARMA              CR/167           2224                 3902.00
+22/05/17     APTE AGENCIES                 CR/168           7472                 1937.00
+22/05/17     SAMARATH SALES                CR/173           197                   260.00
+22/05/17     RAJENDRA MEDICAL STORES       CR/174           315                   759.00
+23/05/17     BAHUBALI PHARMACEUTICALS      CR/169           1642                 1237.00
+23/05/17     VIVEK AGENCIES                CR/170           325                   667.00
+23/05/17     PANDURANG DRUG HOUSE          CR/171           2802                 1915.00
+23/05/17     SURAJ MEDICAL & GENERAL S     CR/172           946                   661.00
+23/05/17     APTE AGENCIES                 CR/175           7667                  715.00
+23/05/17     APTE AGENCIES                 CR/176           7794                  756.00
+23/05/17     SAMARATH SALES                CR/177           199                   519.00
+23/05/17     SURYA DISTRIBUTORS            CR/178           331                  7020.00
+24/05/17     PANDURANG DRUG HOUSE          CR/179           3041                  906.00
+24/05/17     BAHUBALI PHARMACEUTICALS      CR/180           1761                  692.00
+24/05/17     DHANWANTRI MEDICAL STORES     CR/181           2395                  677.00
+24/05/17     MANJUSHRI PHARMA              CR/182           2375                  970.00
+24/05/17     DHANWANTRI MEDICAL STORES     CR/183           2455                 1739.00
+24/05/17     SANJIVANI AGENCIES            CA/8             468                   391.00
+25/05/17     RAJENDRA AGENCIES             CR/202           637                  2627.00
+25/05/17     RAJENDRA AGENCIES             CR/203           673                  1122.00
+26/05/17     SHIVLILA AGENCIES             CR/184           2144                 1982.00
+26/05/17     KRISHNA DISTRIBUTORS          CR/185           1365                 1748.00
+26/05/17     APTE AGENCIES                 CR/186           8231                 1123.00
+26/05/17     PANDURANG DRUG HOUSE          CR/187           3163                 1962.00
+26/05/17     BAHUBALI PHARMACEUTICALS      CR/188           1806                  914.00
+26/05/17     RAJENDRA MEDICAL STORES       CR/189           341                  1280.00
+27/05/17     VIVEK AGENCIES                CR/190           374                  1762.00
+27/05/17     RAJ DISTRIBUTORS              CR/191           55                    461.00
+27/05/17     GURUKRUPA DISTRIBUTORS, B     CR/192           757                  1463.00
+27/05/17     MANJUSHRI PHARMA              CR/193           2527                  386.00
+27/05/17     MANJUSHRI PHARMA              CR/194           2497                  787.00
+27/05/17     SHREE MEDICALS                CR/195           1234                 1008.00
+27/05/17     SHIVLILA AGENCIES             CR/196           2205                  888.00
+27/05/17     SURYA DISTRIBUTORS            CR/197           358                   396.00
+27/05/17     SURYA DISTRIBUTORS            CR/198           357                  1722.00
+27/05/17     KRISHNA DISTRIBUTORS          CR/199           1402                 1163.00
+27/05/17     NEPTUNE MEDICAL               CA/9             318                   104.00
+31/05/17     APTE AGENCIES                 CR/200           8803                 1367.00
+31/05/17     RAJENDRA AGENCIES             CR/201           712                  2366.00
+01/06/17     SHRI BALAJI AGENCIES          CR/204           323                   692.00
+01/06/17     MANJUSHRI PHARMA              CR/205           2666                 1547.00
+01/06/17     SAMARATH SALES                CR/206           257                   355.00
+01/06/17     APTE AGENCIES                 CR/207           8980                  784.00
+01/06/17     SURYA DISTRIBUTORS            CR/210           379                 12485.00
+01/06/17     SURYA DISTRIBUTORS            CR/211           380                  1988.00
+01/06/17     SHREE VAISHANVI DISTRIBUT     CR/212           354                   285.00
+01/06/17     GURUKRUPA DISTRIBUTORS, B     CR/213           794                  1056.00
+01/06/17     SHIVLILA AGENCIES             CR/214           2383                  844.00
+02/06/17     PANDURANG DRUG HOUSE          CR/208           3457                 1324.00
+02/06/17     GURUKRUPA DISTRIBUTORS, B     CR/209           780                   946.00
+02/06/17     DHANWANTRI MEDICAL STORES     CR/215           2737                 3831.00
+02/06/17     PANDURANG DRUG HOUSE          CR/216           3522                  650.00
+02/06/17     APTE AGENCIES                 CR/217           9177                 1004.00
+03/06/17     SURAJ MEDICAL & GENERAL S     CR/218           1229                 1657.00
+03/06/17     MANJUSHRI PHARMA              CR/219           2762                  667.00
+03/06/17     APTE AGENCIES                 CR/220           9378                  860.00
+03/06/17     VIVEK AGENCIES                CR/221           421                   667.00
+03/06/17     GURUKRUPA DISTRIBUTORS, B     CR/222           828                  1211.00
+03/06/17     APTE AGENCIES                 CR/223           9309                  513.00
+03/06/17     GURUKRUPA DISTRIBUTORS, B     CR/224           834                   931.00
+03/06/17     KRISHNA DISTRIBUTORS          CR/225           1589                  519.00
+03/06/17     APTE AGENCIES                 CR/226           9429                 1056.00
+05/06/17     MANJUSHRI PHARMA              CR/227           2829                  324.00
+05/06/17     MANJUSHRI PHARMA              CR/228           2860                 5107.00
+05/06/17     SHIVLILA AGENCIES             CR/229           2500                  686.00
+06/06/17     RAJENDRA AGENCIES             CR/230           784                  1930.00
+06/06/17     SHREE MEDICALS                CR/246           1419                  759.00
+07/06/17     SHIVLILA AGENCIES             CR/231           2553                  695.00
+07/06/17     PANDURANG DRUG HOUSE          CR/232           3762                 1852.00
+07/06/17     SURYA DISTRIBUTORS            CR/233           416                  3276.00
+07/06/17     MANJUSHRI PHARMA              CR/234           2912                 1611.00
+08/06/17     SHREE MEDICALS                CR/279           1471                 1145.00
+09/06/17     GURUKRUPA DISTRIBUTORS, B     CR/235           899                   542.00
+09/06/17     SUMANT DISTRIBUTORS PVT.      CR/236           4629                 1543.00
+09/06/17     K-MAX PHARMA.                 CR/237           1146                  630.00
+09/06/17     RAJENDRA MEDICAL STORES       CR/238           412                  1277.00
+09/06/17     SHRI BALAJI AGENCIES          CR/239           355                  2731.00
+09/06/17     METRO PHARMA                  CA/10            2280                 1063.00
+09/06/17     KRISHNA DISTRIBUTORS          CR/240           1636                 1965.00
+12/06/17     SHIVLILA AGENCIES             CR/242           2741                  480.00
+12/06/17     MANJUSHRI PHARMA              CR/245           3096                 3024.00
+12/06/17     BAHUBALI PHARMACEUTICALS      CR/247           2274                  482.00
+12/06/17     GURUKRUPA DISTRIBUTORS, B     CR/248           945                   476.00
+12/06/17     RAJ DISTRIBUTORS              CR/249           180                   915.00
+12/06/17     GURUKRUPA DISTRIBUTORS, B     CR/250           936                   519.00
+13/06/17     BAHUBALI PHARMACEUTICALS      CR/241           2311                  444.00
+13/06/17     SURAJ MEDICAL & GENERAL S     CR/243           1377                 1499.00
+13/06/17     APTE AGENCIES                 CR/244           10693                 149.00
+13/06/17     SHREE VAISHANVI DISTRIBUT     CR/251           430                  1500.00
+13/06/17     METRO PHARMA                  CA/11            2448                  219.00
+13/06/17     NEPTUNE MEDICAL               CR/252           405                   849.00
+13/06/17     MANJUSHRI PHARMA              CR/253           3169                 1296.00
+13/06/17     KRISHNA DISTRIBUTORS          CR/254           1815                  603.00
+14/06/17     SURYA DISTRIBUTORS            CR/255           464                  2561.00
+14/06/17     PANDURANG DRUG HOUSE          CR/256           4166                 1785.00
+14/06/17     RAJENDRA MEDICAL STORES       CR/257           454                  1309.00
+14/06/17     SHRI BALAJI AGENCIES          CR/258           404                   344.00
+14/06/17     SAMARATH SALES                CR/259           305                   967.00
+16/06/17     BAHUBALI PHARMACEUTICALS      CR/284           2415                 1237.00
+16/06/17     MANJUSHRI PHARMA              CR/285           3501                 1583.00
+17/06/17     GURUKRUPA DISTRIBUTORS, B     CR/264           1013                 1408.00
+17/06/17     VIVEK AGENCIES                CR/266           502                  2157.00
+17/06/17     MANJUSHRI PHARMA              CR/267           3373                 2144.00
+17/06/17     BAHUBALI PHARMACEUTICALS      CR/268           2455                 1827.00
+17/06/17     APTE AGENCIES                 CR/269           11355                 684.00
+17/06/17     SHIVLILA AGENCIES             CR/270           2953                  376.00
+17/06/17     GURUKRUPA DISTRIBUTORS, B     CR/271           1023                  822.00
+17/06/17     PANDURANG DRUG HOUSE          CR/315           4491                  457.00
+19/06/17     RAJENDRA AGENCIES             CR/260           893                  1689.00
+19/06/17     MANJUSHRI PHARMA              CR/261           1298                 1061.00
+19/06/17     DHANWANTRI MEDICAL STORES     CR/262           3336                 1302.00
+19/06/17     APTE AGENCIES                 CR/263           11082                 271.00
+19/06/17     APTE AGENCIES                 CR/265           11377                 720.00
+19/06/17     DHANWANTRI MEDICAL STORES     CR/272           3451                 1944.00
+19/06/17     SURAJ MEDICAL & GENERAL S     CR/273           1527                 1057.00
+19/06/17     SURYA DISTRIBUTORS            CR/274           490                 10545.00
+19/06/17     GURUKRUPA DISTRIBUTORS, B     CR/275           1040                  447.00
+19/06/17     BAHUBALI PHARMACEUTICALS      CR/276           2512                  143.00
+19/06/17     APTE AGENCIES                 CR/277           11980                1428.00
+19/06/17     SHIVLILA AGENCIES             CR/278           3073                  723.00
+20/06/17     GURUKRUPA DISTRIBUTORS, B     CR/280           4633                  848.00
+20/06/17     SUMANT DISTRIBUTORS PVT.      CR/281           5558                  978.00
+20/06/17     SHIVLILA AGENCIES             CR/282           3088                 1185.00
+20/06/17     RAJENDRA AGENCIES             CR/283           945                  1034.00
+20/06/17     KRISHNA DISTRIBUTORS          CR/286           1987                 1284.00
+20/06/17     PANDURANG DRUG HOUSE          CR/287           4713                 1680.00
+22/06/17     GURUKRUPA DISTRIBUTORS, B     CR/288           1100                  793.00
+22/06/17     BAHUBALI PHARMACEUTICALS      CR/289           2510                  566.00
+22/06/17     MANJUSHRI PHARMA              CR/290           1563                 2704.00
+22/06/17     RAJENDRA AGENCIES             CR/291           968                   681.00
+23/06/17     SURAJ MEDICAL & GENERAL S     CR/292           1629                  663.00
+23/06/17     RAJ DISTRIBUTORS              CR/293           271                  2104.00
+23/06/17     APTE AGENCIES                 CR/294           12325                1005.00
+23/06/17     SHRI BALAJI AGENCIES          CR/295           472                  1010.00
+23/06/17     SHREE VAISHANVI DISTRIBUT     CR/296           495                  1255.00
+24/06/17     METRO PHARMA                  CA/12            2803                  319.00
+24/06/17     DHANWANTRI MEDICAL STORES     CR/297           3742                 4531.00
+24/06/17     MANJUSHRI PHARMA              CR/298           3708                 1298.00
+24/06/17     GURUKRUPA DISTRIBUTORS, B     CR/299           1139                  925.00
+24/06/17     BAHUBALI PHARMACEUTICALS      CR/300           2668                  319.00
+26/06/17     SHREE VAISHANVI DISTRIBUT     CR/301           509                  1021.00
+26/06/17     APTE AGENCIES                 CR/302           12615                 827.00
+26/06/17     RAJ DISTRIBUTORS              CR/303           291                  2252.00
+26/06/17     MANJUSHRI PHARMA              CR/304           3762                 1628.00
+27/06/17     SHREE MEDICALS                CR/305           1848                 1607.00
+27/06/17     RAJENDRA MEDICAL STORES       CR/306           513                  1213.00
+27/06/17     PANDURANG DRUG HOUSE          CR/307           5035                  715.00
+27/06/17     DHANWANTRI MEDICAL STORES     CR/308           3852                  783.00
+27/06/17     VIVEK AGENCIES                CR/309           587                   702.00
+27/06/17     SURYA DISTRIBUTORS            CR/310           533                  2774.00
+27/06/17     SHIVLILA AGENCIES             CR/311           3384                  403.00
+27/06/17     RAJENDRA AGENCIES             CR/312           1028                 1590.00
+28/06/17     DHANWANTRI MEDICAL STORES     CR/313           3910                  481.00
+28/06/17     MANJUSHRI PHARMA              CR/314           3866                 2319.00
+28/06/17     SURYA DISTRIBUTORS            CR/316           541                   982.00
+28/06/17     METRO PHARMA                  CA/13            2912                 1790.00
+28/06/17     APTE AGENCIES                 CR/317           13121                2029.00
+28/06/17     SHRI GANRAJ DIST.             CR/318           678                  1551.00
+28/06/17     KRISHNA DISTRIBUTORS          CR/319           2185                  949.00
+28/06/17     GURUKRUPA DISTRIBUTORS, B     CR/320           1161                  734.00
+28/06/17     SHRI BALAJI AGENCIES          CR/321           478                  1793.00
+28/06/17     KRISHNA DISTRIBUTORS          CR/322           2171                 1304.00
+29/06/17     RAJ DISTRIBUTORS              CR/323           320                  2124.00
+29/06/17     SURAJ MEDICAL & GENERAL S     CR/324           1740                  661.00
+29/06/17     MANJUSHRI PHARMA              CR/325           3957                 3617.00
+29/06/17     SAMARATH SALES                CR/326           405                  1496.00
+29/06/17     GURUKRUPA DISTRIBUTORS, B     CR/327           1165                 1779.00
+29/06/17     PANDURANG DRUG HOUSE          CR/328           5278                 1623.00
+29/06/17     VIVEK AGENCIES                CR/329           602                   685.00
+29/06/17     SURYA DISTRIBUTORS            CR/330           570                 27861.00
+29/06/17     NEPTUNE MEDICAL               CR/334           506                  1000.00
+29/06/17     NEPTUNE MEDICAL               CR/335           526                   425.00
+29/06/17     NEPTUNE MEDICAL               CR/336           503                   371.00
+30/06/17     MANJUSHRI PHARMA              CR/331           4046                  842.00
+30/06/17     MANJUSHRI PHARMA              CR/332           4055                 2531.00
+30/06/17     SURAJ MEDICAL & GENERAL S     CR/337           1796                 1776.00
+30/06/17     SHIVAM SALES, SOLAPUR         CR/338           479                   864.00
+30/06/17     PANDURANG DRUG HOUSE          CR/339           5562                 1758.00
+30/06/17     PANDURANG DRUG HOUSE          CR/340           5571                  899.00
+30/06/17     SHRI BALAJI AGENCIES          CR/341           528                   324.00
+30/06/17     MANJUSHRI PHARMA              CR/342           4113                 1362.00
+30/06/17     SHIVLILA AGENCIES             CR/343           3589                  624.00
+04/07/17     APTE AGENCIES                 CR/333           14087                 604.00
+05/07/17     KRISHNA DISTRIBUTORS          CR/344           2344                  415.00
+05/07/17     BAHUBALI PHARMACEUTICAL D     CR/350           2925                 1239.00
+07/07/17     SHIVLILA AGENCIES             CR/345           3768                 1879.00
+07/07/17     RAJENDRA MEDICAL STORES       CR/346           573                  1662.00
+07/07/17     SURAJ MEDICAL &GENERAL ST     CR/347           1846                  997.00
+07/07/17     SHREE MANJUSHREE PHARMA       CR/348           4236                 1142.00
+07/07/17     RAJENDRA AGENCIES BARSHI      CR/351           1144                 1792.00
+07/07/17     RAJENDRA AGENCIES BARSHI      CR/352           1154                  286.00
+07/07/17     RAJENDRA AGENCIES BARSHI      CR/353           1168                  544.00
+07/07/17     APTE AGENCIES                 CR/358           14418                1209.00
+07/07/17     APTE AGENCIES                 CR/359           14535                2165.00
+08/07/17     SANJIVANI MEDICALS BARSHI     CR/349           190                  1397.00
+08/07/17     SHIVAM AGENCIES, BARSHI       CR/356           7890                  922.00
+08/07/17     APTE AGENCIES                 CR/357           14656                1410.00
+09/07/17     RAJENDRA MEDICAL STORES       CR/354           3768                 1970.00
+09/07/17     DHANWANTARI MEDICAL STORE     CR/355           4302                 1033.00
+10/07/17     APTE AGENCIES                 CR/360           14950                 824.00
+10/07/17     GURUKRUPA DISTRIBUTORS        CR/361           1275                  682.00
+10/07/17     SANJIVANI AGENCIES            CR/362           852                   351.00
+10/07/17     SHRI GANRAJ DISTRIBUTORS      CR/364           770                   594.00
+10/07/17     RAJENDRA AGENCIES BARSHI      CR/365           1173                  874.00
+10/07/17     DHANWANTARI MEDICAL STORE     CR/366           4421                 1624.00
+11/07/17     SHIVAM AGENCIES, BARSHI       CR/371           7946                 1523.00
+11/07/17     GURUKRUPA DISTRIBUTORS        CR/372           1305                 1956.00
+11/07/17     SURAJ MEDICAL &GENERAL ST     CR/373           1919                  941.00
+12/07/17     APTE AGENCIES                 CR/369           15380                1582.00
+13/07/17     SHREE MANJUSHREE PHARMA       CR/363           4444                 2658.00
+13/07/17     RAJ DISTRIBUTORS BARSHI       CR/367           432                   618.00
+13/07/17     SHIVLILA AGENCIES BARSHI.     CR/368           3970                  819.00
+13/07/17     BAHUBALI PHARMACEUTICAL D     CR/370           3125                  256.00
+13/07/17     GURUKRUPA DISTRIBUTORS        CR/374           1320                  880.00
+13/07/17     SURYA DISTRIBUTORS BARSHI     CR/375           634                  1848.00
+13/07/17     RAJENDRA MEDICAL STORES       CR/381           633                  1570.00
+14/07/17     KRISHNA DISTRIBUTORS          CR/376           2569                  569.00
+14/07/17     SHREE MANJUSHREE PHARMA       CR/377           4627                 1468.00
+14/07/17     SHRI BALAJI AGENCIES          CR/378           577                  1616.00
+14/07/17     BAHUBALI PHARMACEUTICAL D     CR/379           3198                  995.00
+14/07/17     DHANWANTARI MEDICAL STORE     CR/380           4570                 1860.00
+14/07/17     APTE AGENCIES                 CR/382           15480                1763.00
+14/07/17     APTE AGENCIES                 CR/383           15665                 625.00
+14/07/17     PANDURANG DRUG HOUSE          CR/384           5983                 1025.00
+14/07/17     DHANWANTARI MEDICAL STORE     CR/385           4616                  765.00
+14/07/17     SHRI VAISHNAVI DISTRIBUTO     CR/386           632                   861.00
+14/07/17     SHIVLILA AGENCIES BARSHI.     CR/387           4084                  887.00
+14/07/17     RAJ DISTRIBUTORS BARSHI       CR/388           457                  1333.00
+14/07/17     SHRI MANJUSHRI PHARMA         CR/389           4686                 1000.00
+14/07/17     SURYA DISTRIBUTORS BARSHI     CR/390           641                  1393.00
+14/07/17     RAJENDRA AGENCIES BARSHI      CR/391           1229                 1118.00
+15/07/17     VIVEK AGENCIES KURDUWADI      CR/392           45                    708.00
+15/07/17     SAMARATH SALES                CR/393           828                  2636.00
+15/07/17     GURUKRUPA DISTRIBUTORS        CR/394           1364                  676.00
+15/07/17     SHREE MEDICALS                CR/395           2328                  632.00
+15/07/17     RAJENDRA AGENCIES BARSHI      CR/396           1246                 1383.00
+17/07/17     GURUKRUPA DISTRIBUTORS        CR/398           1396                  335.00
+17/07/17     APTE AGENCIES                 CR/399           16007                2839.00
+17/07/17     SAMARTH SALES CONSUMER        CA/14            825                   679.00
+17/07/17     DHANWANTARI MEDICAL STORE     CR/400           4680                 4027.00
+17/07/17     SHREE MANJUSHREE PHARMA       CR/401           4850                  720.00
+17/07/17     KRISHNA DISTRIBUTORS          CR/402           2647                 2738.00
+17/07/17     KRISHNA DISTRIBUTORS          CR/403           2672                  599.00
+17/07/17     SHREE MANJUSHREE PHARMA       CR/404           4791                 2191.00
+17/07/17     SHREE MANJUSHREE PHARMA       CR/405           4818                 1536.00
+17/07/17     BAHUBALI PHARMACEUTICAL D     CR/406           3278                 1915.00
+17/07/17     VIVEK AGENCIES KURDUWADI      CR/407           63                   1625.00
+18/07/17     METRO PHARMA                  CA/15            3650                  601.00
+18/07/17     SHRI BALAJI AGENCIES          CR/409           611                  2577.00
+19/07/17     RAJENDRA MEDICAL STORES       CR/397           645                   302.00
+19/07/17     BAHUBALI PHARMACEUTICAL D     CR/410           3336                  378.00
+19/07/17     RAJENDRA AGENCIES BARSHI      CR/411           1281                 1869.00
+19/07/17     SAMARTH SALES CONSUMER        CR/412           878                   764.00
+19/07/17     GURUKRUPA DISTRIBUTORS        CR/413           1441                  400.00
+19/07/17     GURUKRUPA DISTRIBUTORS        CR/414           1453                  218.00
+19/07/17     DHANWANTARI MEDICAL STORE     CR/415           4721                 2378.00
+20/07/17     PANDURANG DRUG HOUSE          CR/408           6298                 1912.00
+20/07/17     METRO PHARMA                  CA/16            3713                  609.00
+20/07/17     APTE AGENCIES                 CR/416           16673                1695.00
+20/07/17     AKSHAR MEDICALS               CR/417           1654                  493.00
+20/07/17     DHANWANTARI MEDICAL STORE     CR/420           4859                 3620.00
+21/07/17     SHIVLILA AGENCIES BARSHI.     CR/418           4275                  616.00
+21/07/17     RAJENDRA AGENCIES BARSHI      CR/419           1308                  318.00
+22/07/17     RAJENDRA AGENCIES BARSHI      CR/421           1317                 1204.00
+22/07/17     SUMANT DISTRIBUTORS PVT.      CR/422           917                   979.00
+22/07/17     AKSHAY ENTERPRISES            CR/423           31                   1888.00
+22/07/17     RAJ DISTRIBUTORS BARSHI       CR/424           524                   920.00
+22/07/17     SHREE MANJUSHREE PHARMA       CR/425           5030                 1205.00
+22/07/17     BAHUBALI PHARMACEUTICAL D     CR/426           3390                 1057.00
+22/07/17     DHANWANTARI MEDICAL STORE     CR/427           4990                 1860.00
+22/07/17     SURYA DISTRIBUTORS BARSHI     CR/428           685                  3058.00
+22/07/17     SHRI VAISHNAVI DISTRIBUTO     CR/429           705                  1690.00
+22/07/17     SHRI GANRAJ DISTRIBUTORS      CR/430           919                   661.00
+22/07/17     RAJENDRA AGENCIES BARSHI      CR/431           1333                  199.00
+22/07/17     PANDURANG DRUG HOUSE          CR/439           6590                 4069.00
+24/07/17     SURYA DISTRIBUTORS BARSHI     CR/432           700                  3591.00
+24/07/17     SURAJ MEDICAL &GENERAL ST     CR/433           2120                 1915.00
+24/07/17     GURUKRUPA DISTRIBUTORS        CR/434           1518                 1369.00
+24/07/17     SHRI MANJUSHRI PHARMA         CR/435           5164                 3258.00
+24/07/17     RAJ DISTRIBUTORS BARSHI       CR/436           558                  1706.00
+24/07/17     DHANWANTARI MEDICAL STORE     CR/437           5009                 1717.00
+24/07/17     APTE AGENCIES                 CR/448           17183                2283.00
+26/07/17     BAHUBALI PHARMACEUTICAL D     CR/438           3502                  445.00
+26/07/17     SURYA DISTRIBUTORS BARSHI     CR/440           712                  7254.00
+26/07/17     SHIVLILA AGENCIES BARSHI.     CR/443           4607                 1230.00
+26/07/17     APTE AGENCIES                 CR/449           17576                2092.00
+26/07/17     APTE AGENCIES                 CR/450           18035                1125.00
+26/07/17     APTE AGENCIES                 CR/451           17778                 334.00
+26/07/17     PANDURANG DRUG HOUSE          CR/452           6820                 2345.00
+26/07/17     DHANWANTARI MEDICAL STORE     CR/453           5216                 1024.00
+26/07/17     BALDAWA ENTERPRISES SOLAP     CR/454           987663                996.00
+26/07/17     SHIVLILA AGENCIES BARSHI.     CR/455           4677                  664.00
+26/07/17     RUBY PHARMA SOLAPUR          CR/456           19364                6984.00
+27/07/17     SHIVAM AGENCIES, BARSHI       CR/441           8242                  294.00
+27/07/17     RUBY PHARMA SOLAPUR          CR/442           19192                 960.00
+27/07/17     RAJ DISTRIBUTORS BARSHI       CR/465           599                  1284.00
+28/07/17     SURAJ MEDICAL &GENERAL ST     CR/444           2239                  466.00
+28/07/17     RAJENDRA AGENCIES BARSHI      CR/445           1406                 2212.00
+28/07/17     RAJENDRA MEDICAL STORES       CR/446           734                   960.00
+28/07/17     METRO PHARMA                  CA/17                4064                  823.00
+28/07/17     BAHUBALI PHARMACEUTICAL D     CR/447           3650                  432.00
+29/07/17     SURYA DISTRIBUTORS BARSHI     CR/457           733                   636.00
+29/07/17     RAJ DISTRIBUTORS BARSHI       CR/458           621                  1537.00
+29/07/17     SHRI VAISHNAVI DISTRIBUTO     CR/459           744                  1765.00
+29/07/17     SURYA DISTRIBUTORS BARSHI     CR/460           725                  1736.00
+29/07/17     RAJENDRA MEDICAL STORES       CR/461           736                  1803.00
+29/07/17     SURAJ MEDICAL &GENERAL ST     CR/470           2277                 1378.00
+29/07/17     SHIVAM SALES SOLAPUR          CR/472           OS18-138             1315.00
+29/07/17     BAHUBALI PHARMACEUTICAL D     CR/473           3722                  174.00
+31/07/17     RAJ DISTRIBUTORS BARSHI       CR/462           601                   476.00
+31/07/17     SHRI MANJUSHRI PHARMA         CR/463           5465                  572.00
+31/07/17     SHRI MANJUSHRI PHARMA         CR/464           5466                 2652.00
+31/07/17     BAHUBALI PHARMACEUTICAL D     CR/466           3695                 2307.00
+31/07/17     APTE AGENCIES                 CR/467           18158                4040.00
+31/07/17     GURUKRUPA DISTRIBUTORS        CR/469           1587                  287.00
+31/07/17     SHIVLILA AGENCIES BARSHI.     CR/471           4777                  938.00
+31/07/17     SAMARTH SALES CONSUMER        CR/474           S132                  759.00
+01/08/17     DHANWANTARI MEDICAL STORE     CR/468           5394                 1860.00
+01/08/17     RAJ DISTRIBUTORS BARSHI       CR/475           657                  1437.00
+01/08/17     SHRI MANJUSHRI PHARMA         CR/476           5534                  991.00
+01/08/17     RAJ DISTRIBUTORS BARSHI       CR/477           664                   480.00
+02/08/17     SHIVLILA AGENCIES BARSHI.     CR/478           4881                  823.00
+02/08/17     SHRI GANRAJ DISTRIBUTORS      CR/479           SG-1037               480.00
+02/08/17     KRISHNA DISTRIBUTORS          CR/484           3127                 2997.00
+03/08/17     BAHUBALI PHARMACEUTICAL D     CR/480           3829                  768.00
+03/08/17     SHIVAM AGENCIES, BARSHI       CR/481           8377                  770.00
+03/08/17     PANDURANG DRUG HOUSE          CR/482           7180                  689.00
+03/08/17     APTE AGENCIES                 CR/483           18789                1677.00
+03/08/17     SURYA DISTRIBUTORS BARSHI     CR/485           768                  4260.00
+03/08/17     SHREE MANJUSHREE PHARMA       CR/486           5574                 3327.00
+04/08/17     SAMARTH SALES CONSUMER        CR/487           S158                  666.00
+04/08/17     SHREE MANJUSHREE PHARMA       CR/488           5679                  884.00
+04/08/17     SHRI BALAJI AGENCIES          CR/489           719                  1531.00
+05/08/17     APTE AGENCIES                 CR/490           19090                 847.00
+05/08/17     KRISHNA DISTRIBUTORS          CR/491           3176                  652.00
+05/08/17     DHANWANTARI MEDICAL STORE     CR/492           5668                 1116.00
+05/08/17     APTE AGENCIES                 CR/493           19177                 824.00
+05/08/17     SHRI GANRAJ DISTRIBUTORS      CR/494           1081                  832.00
+07/08/17     SHIVLILA AGENCIES BARSHI.     CR/495           5093                  295.00
+07/08/17     GURUKRUPA DISTRIBUTORS        CR/496           1666                  821.00
+07/08/17     SHREE MANJUSHREE PHARMA       CR/497           5755                 1430.00
+07/08/17     SHIVAM SALES SOLAPUR          CR/498           OS18-179              246.00
+07/08/17     PANDURANG DRUG HOUSE          CR/499           7449                 1165.00
+07/08/17     APTE AGENCIES                 CR/500           19243                1606.00
+07/08/17     PANDURANG DRUG HOUSE          CR/511           7666                 2190.00
+09/08/17     SURYA DISTRIBUTORS BARSHI     CR/501           795                  5586.00
+09/08/17     SURYA DISTRIBUTORS BARSHI     CR/502           796                  1682.00
+09/08/17     TRIMURTI DISTRIBUTORS         CR/503           1693                  628.00
+09/08/17     BALDAWA ENTERPRISES SOLAP     CR/506           997315               3669.00
+09/08/17     RAJENDRA AGENCIES BARSHI      CR/507           845                  1156.00
+10/08/17     NEPTUNE MEDICAL AND GENER     CR/504           846                   531.00
+10/08/17     SHIVLILA AGENCIES BARSHI.     CR/505           5191                  944.00
+10/08/17     APTE AGENCIES                 CR/508           19836                 738.00
+10/08/17     APTE AGENCIES                 CR/509           19837                 981.00
+10/08/17     DHANWANTARI MEDICAL STORE     CR/510           5866                 1267.00
+11/08/17     SHREE MANJUSHREE PHARMA       CR/520           5963                  971.00
+12/08/17     KRISHNA DISTRIBUTORS          CR/512           3356                  583.00
+12/08/17     SHREE MANJUSHREE PHARMA       CR/517           6029                  869.00
+12/08/17     RAJ DISTRIBUTORS BARSHI       CR/518           774                  1425.00
+12/08/17     GURUKRUPA DISTRIBUTORS        CR/521           1723                 1495.00
+12/08/17     APTE AGENCIES                 CR/522           20216                2223.00
+14/08/17     SURAJ MEDICAL &GENERAL ST     CR/513           2575                  329.00
+14/08/17     APTE AGENCIES                 CR/514           20070                 683.00
+14/08/17     BAHUBALI PHARMACEUTICAL D     CR/515           4082                  211.00
+14/08/17     SAMARTH SALES CONSUMER        CR/516           5200                  364.00
+14/08/17     SHIVAM AGENCIES, BARSHI       CR/519           8531                  671.00
+14/08/17     APTE AGENCIES                 CR/523           20307                 660.00
+14/08/17     GURUKRUPA DISTRIBUTORS        CR/524           1726                  487.00
+14/08/17     SHREE MANJUSHREE PHARMA       CR/525           6084                 2183.00
+14/08/17     K-MAX PHARMA BARSHI           CR/526           KM 1269               707.00
+14/08/17     K-MAX PHARMA BARSHI           CR/529           1270                  840.00
+15/08/17     SHIVLILA AGENCIES BARSHI.     CR/527           5383                  590.00
+15/08/17     DHANWANTARI MEDICAL STORE     CR/528           6022                 1235.00
+16/08/17     APTE AGENCIES                 CR/530           20693                2069.00
+16/08/17     APTE AGENCIES                 CR/531           20701                 201.00
+16/08/17     PANDURANG DRUG HOUSE          CR/532           7917                 1662.00
+16/08/17     SHIVLILA AGENCIES BARSHI.     CR/533           5425                 1487.00
+16/08/17     DHANWANTARI MEDICAL STORE     CR/534           6147                 1233.00
+16/08/17     SHRI BALAJI AGENCIES          CR/535           756                  1255.00
+16/08/17     SURAJ MEDICAL &GENERAL ST     CR/536           2638                 2840.00
+16/08/17     PANDURANG DRUG HOUSE          CR/537           7993                  632.00
+17/08/17     PANDURANG DRUG HOUSE          CR/538           8004                  806.00
+17/08/17     SHREE MANJUSHREE PHARMA       CR/539           6197                 1433.00
+17/08/17     RAJ DISTRIBUTORS BARSHI       CR/540           846                  1153.00
+17/08/17     KRISHNA DISTRIBUTORS          CR/541           3465                  176.00
+17/08/17     APTE AGENCIES                 CR/542           21042                1319.00
+17/08/17     DHANWANTARI MEDICAL STORE     CR/545           6196                 3080.00
+17/08/17     SHRI BALAJI AGENCIES          CR/546           771                  1652.00
+19/08/17     SHREE MANJUSHREE PHARMA       CR/543           6322                 3323.00
+19/08/17     SHREE MANJUSHREE PHARMA       CR/544           6338                 3746.00
+21/08/17     SHREE MANJUSHREE PHARMA       CR/547           6389                 4669.00
+21/08/17     SAMARTH SALES CONSUMER        CR/548           239                   568.00
+21/08/17     RAJENDRA MEDICAL STORES       CR/549           933                  2174.00
+21/08/17     SHRI GANRAJ DISTRIBUTORS      CR/550           1273                  943.00
+21/08/17     SHIVLILA AGENCIES BARSHI.     CR/551           5664                  576.00
+21/08/17     SHIVAM SALES SOLAPUR          CR/552           243                   783.00
+21/08/17     GURUKRUPA DISTRIBUTORS        CR/553           1836                 2044.00
+21/08/17     DHANWANTARI MEDICAL STORE     CR/554           6374                  926.00
+21/08/17     APTE AGENCIES                 CR/555           21356                2696.00
+23/08/17     APTE AGENCIES                 CR/556           21779                1105.00
+23/08/17     SHRI BALAJI AGENCIES          CR/557           783                   903.00
+23/08/17     RAJENDRA MEDICAL STORES       CR/558           1652                 1610.00
+23/08/17     SHREE MANJUSHREE PHARMA       CR/559           6469                 1452.00
+23/08/17     KALE DISTRIBUTORS BARSHI      CR/560           285                   728.00
+23/08/17     APTE AGENCIES                 CR/561           21865                1482.00
+23/08/17     SURAJ MEDICAL &GENERAL ST     CR/562           2800                  462.00
+23/08/17     RAJENDRA AGENCIES BARSHI      CR/563           1689                 2015.00
+24/08/17     DHANWANTARI MEDICAL STORE     CR/564           6562                 1925.00
+24/08/17     KRISHNA DISTRIBUTORS          CR/565           3693                  735.00
+24/08/17     SHRI BALAJI AGENCIES          CR/566           797                  1352.00
+24/08/17     PANDURANG DRUG HOUSE          CR/567           8401                  689.00
+25/08/17     TRIMURTI DISTRIBUTORS         CR/568           1984                 1250.00
+25/08/17     SHIVLILA AGENCIES BARSHI.     CR/569           5855                  576.00
+26/08/17     GURUKRUPA DISTRIBUTORS        CR/570           1896                  497.00
+26/08/17     METRO PHARMA                  CA/18            5071                  859.00
+26/08/17     SURAJ MEDICAL &GENERAL ST     CR/571           2868                 1056.00
+26/08/17     VIVEK AGENCIES KURDUWADI      CR/572           306                  1989.00
+26/08/17     RAJENDRA MEDICAL STORES       CR/573           989                  1499.00
+26/08/17     DHANWANTARI MEDICAL STORE     CR/574           6701                  699.00
+26/08/17     APTE AGENCIES                 CR/575           22267                1691.00
+26/08/17     KRISHNA DISTRIBUTORS          CR/581           3753                  903.00
+28/08/17     APTE AGENCIES                 CR/576           22437                1242.00
+28/08/17     RAJENDRA AGENCIES BARSHI      CR/577           1737                 2562.00
+28/08/17     GURUKRUPA DISTRIBUTORS        CR/578           1935                 1256.00
+28/08/17     SHREE MANJUSHREE PHARMA       CR/579           6700                 1342.00
+28/08/17     SHIVAM AGENCIES, BARSHI       CR/580           8842                  635.00
+29/08/17     SHIVAM AGENCIES               CR/582           8851                  739.00
+30/08/17     ORTBIT PHARMA BARSHI.         CR/585           359                   826.00
+31/08/17     PANDURANG DRUG HOUSE          CR/583           8782                 3403.00
+01/09/17     SURAJ MEDICAL &GENERAL ST     CR/584           2968                 1810.00
+01/09/17     APTE AGENCIES                 CR/587           23162                 126.00
+01/09/17     APTE AGENCIES                 CR/588           23331                1208.00
+01/09/17     BAHUBALI PHARMACEUTICAL D     CR/596           4737                  480.00
+01/09/17     RAJENDRA AGENCIES BARSHI      CR/597           1794                  326.00
+02/09/17     APTE AGENCIES                 CR/586           23749                1855.00
+02/09/17     SURYA DISTRIBUTORS BARSHI     CR/594           932                  1081.00
+02/09/17     SURYA DISTRIBUTORS BARSHI     CR/595           915                  4592.00
+04/09/17     SHRI GANRAJ DISTRIBUTORS      CR/591           1416                  440.00
+04/09/17     SHIVAM SALES SOLAPUR          CR/592           18-323                326.00
+04/09/17     GURUKRUPA DISTRIBUTORS        CR/593           2021                  689.00
+04/09/17     SUMANT DISTRIBUTORS PVT.      CR/598           3874                  752.00
+04/09/17     SURAJ MEDICAL &GENERAL ST     CR/599           3019                 2016.00
+04/09/17     SHIVLILA AGENCIES BARSHI.     CR/600           6245                  582.00
+04/09/17     SURYA DISTRIBUTORS BARSHI     CR/603           933                   325.00
+04/09/17     DHANWANTARI MEDICAL STORE     CR/604           7202                 2086.00
+04/09/17     BAHUBALI PHARMACEUTICAL D     CR/605           4834                 1353.00
+04/09/17     RAJENDRA AGENCIES BARSHI      CR/606           1822                 1702.00
+05/09/17     K-MAX PHARMA BARSHI           CR/589           1302                  712.00
+05/09/17     KRISHNA DISTRIBUTORS          CR/590           3983                 1485.00
+05/09/17     SURYA DISTRIBUTORS BARSHI     CR/601           948                  6493.00
+05/09/17     KALE DISTRIBUTORS BARSHI      CR/602           327                   388.00
+05/09/17     SANJIVANI MEDICALS BARSHI     CR/607           341                  1397.00
+05/09/17     RAJ DISTRIBUTORS BARSHI       CR/609           1032                  599.00
+05/09/17     SURAJ MEDICAL &GENERAL ST     CR/610           3055                  342.00
+05/09/17     APTE AGENCIES                 CR/611           23934                 617.00
+05/09/17     METRO PHARMA                  CA/19            5475                  419.00
+06/09/17     SANJIVANI MEDICALS BARSHI     CR/608           348                  1581.00
+07/09/17     SURYA DISTRIBUTORS BARSHI     CR/612           961                  3276.00
+07/09/17     BAHUBALI PHARMACEUTICAL D     CR/613           4924                  921.00
+07/09/17     SHREE MANJUSHREE PHARMA       CR/614           7093                 3211.00
+07/09/17     DHANWANTARI MEDICAL STORE     CR/615           7255                  430.00
+07/09/17     TRIMURTI DISTRIBUTORS         CR/616           2187                 1632.00
+07/09/17     PANDURANG DRUG HOUSE          CR/617           9214                 1385.00
+07/09/17     SHREE MANJUSHREE PHARMA       CR/618           7101                  614.00
+07/09/17     KRISHNA DISTRIBUTORS          CR/619           4035                  256.00
+07/09/17     PANDURANG DRUG HOUSE          CR/620           9276                 1642.00
+07/09/17     VIVEK AGENCIES KURDUWADI      CR/621           396                  1612.00
+07/09/17     SHREE MEDICALS                CR/622           3626                 1264.00
+07/09/17     DHANWANTARI MEDICAL STORE     CR/625           7324                 1056.00
+08/09/17     DHANWANTARI MEDICAL STORE     CR/626           7338                  980.00
+08/09/17     APTE AGENCIES                 CR/627           24318                2488.00
+09/09/17     GURUKRUPA DISTRIBUTORS        CR/624           2052                  779.00
+09/09/17     KRISHNA DISTRIBUTORS          CR/628           4099                 1304.00
+09/09/17     APTE AGENCIES                 CR/629           24506                 947.00
+11/09/17     KRISHNA DISTRIBUTORS          CR/623           4056                 1348.00
+11/09/17     DHANWANTARI MEDICAL STORE     CR/630           7442                  519.00
+11/09/17     RAJ DISTRIBUTORS BARSHI       CR/631           1102                  208.00
+11/09/17     SHIVLILA AGENCIES BARSHI.     CR/638           6503                 1125.00
+11/09/17     SHREE MANJUSHREE PHARMA       CR/639           7302                 2688.00
+11/09/17     TRIMURTI DISTRIBUTORS         CR/642           2259                  934.00
+11/09/17     GURUKRUPA DISTRIBUTORS        CR/644           2107                  624.00
+11/09/17     GURUKRUPA DISTRIBUTORS        CR/645           2108                  625.00
+11/09/17     APTE AGENCIES                 CR/646           25131                1872.00
+11/09/17     SURAJ MEDICAL &GENERAL ST     CR/680           3173                 1128.00
+11/09/17     SAMARTH SALES CONSUMER        CR/681           420                  2251.00
+11/09/17     DHANWANTARI MEDICAL STORE     CR/682           8057                  647.00
+12/09/17     SHIVAM AGENCIES, BARSHI       CR/640           9142                  931.00
+12/09/17     KRISHNA DISTRIBUTORS          CR/641           4168                 1480.00
+12/09/17     APTE AGENCIES                 CR/643           24902                 758.00
+13/09/17     KRISHNA DISTRIBUTORS          CR/636           4206                 2682.00
+13/09/17     PANDURANG DRUG HOUSE          CR/637           9581                  986.00
+13/09/17     TRIMURTI DISTRIBUTORS         CR/647           2297                 1328.00
+14/09/17     RAJ DISTRIBUTORS BARSHI       CR/632           1129                 1152.00
+14/09/17     DHANWANTARI MEDICAL STORE     CR/633           7621                 4227.00
+14/09/17     RAJENDRA MEDICAL STORES       CR/634           1182                  551.00
+14/09/17     SHIVAM AGENCIES, BARSHI       CR/635           9181                  384.00
+15/09/17     SHREE MANJUSHREE PHARMA       CR/648           7515                 4025.00
+15/09/17     RAJENDRA AGENCIES BARSHI      CR/649           1948                  213.00
+15/09/17     M/S UNITED MEDICAL AGENCI     CR/650           55292                1430.00
+15/09/17     APTE AGENCIES                 CR/651           25487                 656.00
+15/09/17     SHRI BALAJI AGENCIES          CR/652           881                   556.00
+15/09/17     SURYA DISTRIBUTORS BARSHI     CR/653           1026                  728.00
+15/09/17     SHRI VAISHNAVI DISTRIBUTO     CR/654           1104                 1518.00
+15/09/17     SHIVLILA AGENCIES BARSHI.     CR/655           6719                  688.00
+16/09/17     KRISHNA DISTRIBUTORS          CR/656           4310                  303.00
+16/09/17     VIVEK AGENCIES KURDUWADI      CR/657           450                   792.00
+16/09/17     APTE AGENCIES                 CR/658           25652                1043.00
+18/09/17     RAJENDRA MEDICAL STORES       CR/659           1212                 1008.00
+18/09/17     SHRI BALAJI AGENCIES          CR/660           894                   904.00
+18/09/17     SURYA DISTRIBUTORS BARSHI     CR/661           1047                 5934.00
+18/09/17     VIVEK AGENCIES KURDUWADI      CR/662           492                   533.00
+18/09/17     DHANWANTARI MEDICAL STORE     CR/663           7830                 1024.00
+18/09/17     GURUKRUPA DISTRIBUTORS        CR/664           2188                  895.00
+18/09/17     SHREE MANJUSHREE PHARMA       CR/665           7668                 2400.00
+18/09/17     SAMARTH SALES CONSUMER        CR/666           398                   299.00
+18/09/17     RAJENDRA AGENCIES BARSHI      CR/667           2001                 1571.00
+19/09/17     APTE AGENCIES                 CR/668           26055                1068.00
+19/09/17     APTE AGENCIES                 CR/669           26109                 285.00
+19/09/17     TRIMURTI DISTRIBUTORS         CR/670           2409                  849.00
+19/09/17     TRIMURTI DISTRIBUTORS         CR/671           2412                 1328.00
+19/09/17     APTE AGENCIES                 CR/672           26257                 324.00
+20/09/17     DHANWANTARI MEDICAL STORE     CR/673           7965                 1539.00
+20/09/17     SHIVLILA AGENCIES BARSHI.     CR/674           6921                  576.00
+21/09/17     SHREE MANJUSHREE PHARMA       CR/675           7804                 3022.00
+21/09/17     SHREE MANJUSHREE PHARMA       CR/676           7811                 1847.00
+21/09/17     KRISHNA DISTRIBUTORS          CR/677           4416                  848.00
+21/09/17     SURYA DISTRIBUTORS BARSHI     CR/678           1065                 1280.00
+21/09/17     SURYA DISTRIBUTORS BARSHI     CR/679           1066                 2339.00
+22/09/17     APTE AGENCIES                 CR/683           26451                 314.00
+22/09/17     PANDURANG DRUG HOUSE          CR/709           10090                2528.00
+23/09/17     APTE AGENCIES                 CR/684           26860                 247.00
+23/09/17     SHREE MANJUSHREE PHARMA       CR/685           7880                 1296.00
+23/09/17     SAMARTH SALES                 CR/686           398                   753.00
+23/09/17     RAJ DISTRIBUTORS BARSHI       CR/687           1232                 1214.00
+23/09/17     SHREE MANJUSHREE PHARMA       CR/688           7944                  735.00
+23/09/17     K-MAX PHARMA BARSHI           CR/689           1359                  670.00
+23/09/17     RAJENDRA AGENCIES BARSHI      CR/690           2067                 2266.00
+25/09/17     APTE AGENCIES                 CR/691           26934                 859.00
+25/09/17     METRO PHARMA BARSHI.          CA/20            6184                 1014.00
+25/09/17     SHREE MANJUSHREE PHARMA       CR/692           8004                  966.00
+25/09/17     DHANWANTARI MEDICAL STORE     CR/697           8196                  906.00
+25/09/17     SURYA DISTRIBUTORS BARSHI     CR/698           1099                 4659.00
+25/09/17     SHIVLILA AGENCIES BARSHI.     CR/699           7212                  344.00
+25/09/17     KALE DISTRIBUTORS BARSHI      CR/700           414                   601.00
+26/09/17     APTE AGENCIES                 CR/693           27142                1016.00
+26/09/17     APTE AGENCIES                 CR/694           27001                 842.00
+26/09/17     BAHUBALI PHARMACEUTICAL D     CR/695           5504                  842.00
+27/09/17     SHREE MANJUSHREE PHARMA       CR/696           8067                 1688.00
+27/09/17     SURYA DISTRIBUTORS BARSHI     CR/701           1105                 2844.00
+27/09/17     BAHUBALI PHARMACEUTICAL D     CR/702           5579                  184.00
+27/09/17     KRISHNA DISTRIBUTORS          CR/703           4595                  172.00
+27/09/17     SURAJ MEDICAL &GENERAL ST     CR/704           3535                 2295.00
+27/09/17     RAJENDRA MEDICAL STORES       CR/705           1332                 1162.00
+28/09/17     PRASAD AGENCIES               CR/706           1899                 1419.00
+28/09/17     DHANWANTARI MEDICAL STORE     CR/707           8401                 2950.00
+28/09/17     GURUKRUPA DISTRIBUTORS        CR/708           2523                 1412.00
+28/09/17     SHREE MANJUSHREE PHARMA       CR/710           8112                 1488.00
+28/09/17     PANDURANG DRUG HOUSE          CR/711           1670                 1670.00
+28/09/17     KRISHNA DISTRIBUTORS          CR/712           4625                  363.00
+02/10/17     KRISHNA DISTRIBUTORS          CR/713           4664                 1632.00
+02/10/17     SHREE MANJUSHREE PHARMA       CR/714           1544                 1382.00
+02/10/17     KRISHNA DISTRIBUTORS          CR/715           4683                  709.00
+02/10/17     SHREE MEDICALS                CR/716           4142                  844.00
+02/10/17     SHREE MANJUSHREE PHARMA       CR/717           8316                 1474.00
+02/10/17     SHREE MANJUSHREE PHARMA       CR/718           8332                 3700.00
+02/10/17     SAMARTH SALES                 CR/719           474                   546.00
+02/10/17     TRIMURTI DISTRIBUTORS         CR/720           2621                 1716.00
+02/10/17     SHRI VAISHNAVI DISTRIBUTO     CR/721           2223                  544.00
+02/10/17     RAJENDRA MEDICAL STORES       CR/722           1392                  524.00
+02/10/17     SURYA DISTRIBUTORS BARSHI     CR/723           1121                 2797.00
+02/10/17     APTE AGENCIES                 CR/724           28122                1119.00
+02/10/17     SHIVLILA AGENCIES BARSHI.     CR/725           7405                  384.00
+02/10/17     APTE AGENCIES                 CR/726           28101                1600.00
+02/10/17     RAJENDRA AGENCIES BARSHI      CR/734           2149                 2257.00
+04/10/17     APTE AGENCIES                 CR/727           28601                1807.00
+04/10/17     SHIVLILA AGENCIES BARSHI.     CR/728           7505                 1380.00
+06/10/17     BAHUBALI PHARMACEUTICAL D     CR/729           5839                  208.00
+06/10/17     SHREE MANJUSHREE PHARMA       CR/730           8482                  533.00
+06/10/17     APTE AGENCIES                 CR/731           28930                1611.00
+06/10/17     SHREE MEDICALS                CR/732           4234                  454.00
+06/10/17     KRISHNA DISTRIBUTORS          CR/733           4770                  711.00
+06/10/17     SHIVLILA AGENCIES BARSHI.     CR/735           7605                  394.00
+06/10/17     DHANWANTARI MEDICAL STORE     CR/736           8801                  747.00
+06/10/17     SURAJ MEDICAL &GENERAL ST     CR/737           3722                 1248.00
+06/10/17     METRO PHARMA BARSHI.          CA/21            6613                  865.00
+06/10/17     PANDURANG DRUG HOUSE          CR/738           10873                 768.00
+06/10/17     PANDURANG DRUG HOUSE          CR/739           10900                 720.00
+07/10/17     SHREE MANJUSHREE PHARMA       CR/740           8542                 4870.00
+07/10/17     SAMARTH SALES                 CR/741           500                   294.00
+07/10/17     SHIVLILA AGENCIES BARSHI.     CR/743           7642                 1131.00
+07/10/17     TRIMURTI DISTRIBUTORS         CR/744           2736                 2190.00
+08/10/17     RAJ DISTRIBUTORS BARSHI       CR/748           1385                 3265.00
+09/10/17     PANDURANG DRUG HOUSE          CR/742           11013                2033.00
+09/10/17     DHANWANTARI MEDICAL STORE     CR/749           8888                 2055.00
+09/10/17     SURYA DISTRIBUTORS BARSHI     CR/750           1159                 5635.00
+09/10/17     RAJENDRA AGENCIES BARSHI      CR/751           1462                 1581.00
+09/10/17     SURAJ MEDICAL &GENERAL ST     CR/752           3757                  870.00
+09/10/17     RAJ DISTRIBUTORS BARSHI       CR/753           1393                  307.00
+09/10/17     KRISHNA DISTRIBUTORS          CR/765           4845                  738.00
+09/10/17     APTE AGENCIES                 CR/768           29287                1913.00
+09/10/17     RAJ DISTRIBUTORS BARSHI       CR/769           1401                  342.00
+09/10/17     KRISHNA DISTRIBUTORS          CR/771           4861                 1006.00
+09/10/17     SHREE MANJUSHREE PHARMA       CR/772           8605                  904.00
+09/10/17     SHIVLILA AGENCIES BARSHI.     CR/773           7736                  186.00
+09/10/17     SURAJ MEDICAL &GENERAL ST     CR/774           3831                 1841.00
+09/10/17     KRISHNA DISTRIBUTORS          CR/775           4941                  176.00
+10/10/17     KALE DISTRIBUTORS BARSHI      CR/745           451                   424.00
+10/10/17     BAHUBALI PHARMACEUTICAL D     CR/746           5982                  766.00
+10/10/17     RAJ DISTRIBUTORS BARSHI       CR/747           1404                 1158.00
+10/10/17     BAHUBALI PHARMACEUTICAL D     CR/754           5987                 1412.00
+10/10/17     APTE AGENCIES                 CR/755           29629                 238.00
+10/10/17     APTE AGENCIES                 CR/756           29537                 347.00
+10/10/17     RAJ DISTRIBUTORS BARSHI       CR/757           1411                  309.00
+10/10/17     DHANWANTARI MEDICAL STORE     CR/759           8946                 1327.00
+10/10/17     SURYA DISTRIBUTORS BARSHI     CR/760           1174                 2711.00
+10/10/17     PANDURANG DRUG HOUSE          CR/761           11115                3012.00
+10/10/17     RAJENDRA AGENCIES BARSHI      CR/762           2279                  917.00
+10/10/17     SANJIVANI MEDICALS BARSHI     CR/763           411                  1938.00
+10/10/17     TRIMURTI DISTRIBUTORS         CR/764           2800                 1068.00
+11/10/17     APTE AGENCIES                 CR/758           29876                2149.00
+11/10/17     DHANWANTARI MEDICAL STORE     CR/767           9026                 1037.00
+12/10/17     SURYA DISTRIBUTORS BARSHI     CR/776           1186                 3589.00
+12/10/17     SHRI VAISHNAVI DISTRIBUTO     CR/777           1273                 1299.00
+12/10/17     SHREE MANJUSHREE PHARMA       CR/778           8739                 3305.00
+12/10/17     APTE AGENCIES                 CR/779           30012                 660.00
+12/10/17     METRO PHARMA BARSHI.          CA/22            6826                  823.00
+12/10/17     SURAJ AGENCIES                CR/798           2581                 1049.00
+13/10/17     RAJ DISTRIBUTORS BARSHI       CR/766           1444                  859.00
+13/10/17     APTE AGENCIES                 CR/770           30108                1432.00
+13/10/17     DHANWANTARI MEDICAL STORE     CR/780           9141                  440.00
+13/10/17     SHIVLILA AGENCIES BARSHI.     CR/781           7890                 1939.00
+13/10/17     SHRI GANRAJ DISTRIBUTORS      CR/782           1845                  440.00
+14/10/17     BAHUBALI PHARMACEUTICAL D     CR/783           6116                  318.00
+14/10/17     RAJ DISTRIBUTORS BARSHI       CR/784           1455                  441.00
+14/10/17     SHIVLILA AGENCIES BARSHI.     CR/785           7834                  334.00
+14/10/17     SHRI VAISHNAVI DISTRIBUTO     CR/786           1291                  195.00
+14/10/17     SURYA DISTRIBUTORS BARSHI     CR/787           1198                 1763.00
+15/10/17     SHIVLILA AGENCIES BARSHI.     CR/788           7985                  768.00
+15/10/17     SHREE MANJUSHREE PHARMA       CR/789           8874                  512.00
+15/10/17     RAJENDRA AGENCIES BARSHI      CR/790           2330                 1411.00
+17/10/17     SURAJ AGENCIES                CR/791           2723                  774.00
+17/10/17     RAJENDRA MEDICAL STORES       CR/792           1567                 2374.00
+17/10/17     APTE AGENCIES                 CR/793           30450                 682.00
+17/10/17     BAHUBALI PHARMACEUTICAL D     CR/794           6227                  208.00
+17/10/17     RAJ DISTRIBUTORS BARSHI       CR/795           1472                  130.00
+17/10/17     KALE DISTRIBUTORS BARSHI      CR/796           470                   541.00
+17/10/17     APTE AGENCIES                 CR/797           30703                 938.00
+17/10/17     PANDURANG DRUG HOUSE          CR/800           11550                1698.00
+17/10/17     APTE AGENCIES                 CR/801           30814                1575.00
+17/10/17     DHANWANTARI MEDICAL STORE     CR/802           9337                  862.00
+17/10/17     SHREE MANJUSHREE PHARMA       CR/803           9012                  506.00
+18/10/17     SHRI BALAJI AGENCIES          CR/799           1008                 2929.00
+19/10/17     SHREE MANJUSHREE PHARMA       CR/804           9103                 2941.00
+19/10/17     SHRI GANRAJ DISTRIBUTORS      CR/805           1921                 1298.00
+19/10/17     SURAJ MEDICAL &GENERAL ST     CR/806           3995                  792.00
+21/10/17     RAJ DISTRIBUTORS BARSHI       CR/807           1517                  822.00
