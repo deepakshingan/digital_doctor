@@ -17,8 +17,15 @@ for record in tempCollection.find({}):
     record['ATC Classification'] = []
     record['contents'] = ''
     record['CIMSClass'] = ''
+    isUpdate = targetDb.medicol.find({"Name": record["Name"]}).count() > 0
     if(tempCollection.find({"Name":record["Name"]}).count()==1):
-        targetDb.companyMedicine.insert(record)
+        if(isUpdate):
+            duplicateRecordFromTargetDB = targetDb.medicol.find_one({"Name": record["Name"]})
+            presentationArray = []
+            presentationArray = duplicateRecordFromTargetDB['presentation'] + record['presentation']
+            targetDb.medicol.update({"Name": record["Name"]}, {"$set": {"presentation": presentationArray}})
+        else:
+            targetDb.medicol.insert(record)
     else:
         if not( record["Name"] in parsedDuplicateData):
             recordsWithSameName = tempCollection.find({"Name": record["Name"]})
@@ -28,5 +35,10 @@ for record in tempCollection.find({}):
             correctRecord = {}
             correctRecord['Name'] = record["Name"]
             correctRecord['presentation'] = presentationArray
-            targetDb.companyMedicine.insert(correctRecord)
+            if(isUpdate):
+                duplicateRecordFromTargetDB = targetDb.medicol.find_one({"Name": record["Name"]})
+                presentationArray = duplicateRecordFromTargetDB['presentation'] + correctRecord['presentation']
+                targetDb.medicol.update({"Name": record["Name"]}, {"$set": {"presentation": presentationArray}})
+            else:
+                targetDb.medicol.insert(correctRecord)
             parsedDuplicateData.append(record["Name"])
